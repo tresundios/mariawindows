@@ -1,0 +1,47 @@
+<!-- sp:pagelayer/pl_post_props {"post_title":"Footer","post_status":"publish","post_date":"2021-06-12 09:38:38","post_author":"1","post_name":"footer","post_excerpt":"","post_password":"","featured_image":"","comment_status":"","ping_status":"","post_sticky":"","post_parent":0,"menu_order":0,"post_category":"","post_tags":"","pagelayer-id":"tih4536"} /-->
+<!-- sp:pagelayer/pl_row {"stretch":"auto","col_gap":"10","width_content":"auto","row_height":"default","overlay_hover_delay":"400","row_shape_top_color":"#227bc3","row_shape_top_width":"100","row_shape_top_height":"100","row_shape_bottom_color":"#e44993","row_shape_bottom_width":"100","row_shape_bottom_height":"100","ele_bg_type":"color","ele_bg_color":"#f9a3921a","ele_padding":"50px,0px,50px,0px","pagelayer-id":"5iw6755"} -->
+<!-- sp:pagelayer/pl_col {"overlay_hover_delay":"400","content_pos":"flex-start","col":"4","pagelayer-id":"dl8846"} -->
+<!-- sp:pagelayer/pl_wp_title {"site_title_state":"normal","text-align":"left","title_color":"#000000ff","site_title_style":"Noto Serif,32,,700,,,Solid,,,,","text-align_mobile":"left","text-align_tablet":"left","title_padding":"0,0,0,0","pagelayer-id":"ts66045"} /-->
+<!-- sp:pagelayer/pl_heading {"text":"\u003cp\u003eIt is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum\u003c\/p\u003e","heading_state":"normal","align":"left","ele_margin":"20px,0px,0px,0px","color":"#000000ff","pagelayer-id":"5le5528"} --><p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum</p><!-- /sp:pagelayer/pl_heading -->
+<!-- sp:pagelayer/pl_social_grp {"align":"left","group_layout":"pagelayer-btn-grp-horizontal","icon_spacing":"3","icon_size":"20","color_scheme":"","icon_color":"#ffffffff","icon_color_hover":"#ffffffff","social_hover_delay":"400","bg_shape":"pagelayer-social-shape-circle","bg_size":"10","icon_bg_color":"#f9a392ff","icon_bg_color_hover":"#f9a392ff","social_hover":"hover","anim_hover":"pop","ele_margin":"10px,0px,0px,0px","pagelayer-id":"zyv8047"} -->
+<!-- sp:pagelayer/pl_social {"icon":"fab fa-facebook-f","social_url":"https:\/\/facebook.com\/sitepad","pagelayer-id":"81d7862"} /-->
+<!-- sp:pagelayer/pl_social {"icon":"fab fa-instagram","social_url":"https:\/\/instagram.com\/sitepad","pagelayer-id":"eis9827"} /-->
+<!-- sp:pagelayer/pl_social {"icon":"fab fa-twitter","social_url":"https:\/\/twitter.com\/sitepad","pagelayer-id":"edr7450"} /-->
+<!-- sp:pagelayer/pl_social {"icon":"fab fa-linkedin-in","social_url":"https:\/\/linkedin.com\/sitepad","pagelayer-id":"2ia9556"} /-->
+<!-- sp:pagelayer/pl_social {"icon":"fab fa-google-plus-g","social_url":"https:\/\/plus.google.com\/sitepad","pagelayer-id":"kp66003"} /-->
+<!-- /sp:pagelayer/pl_social_grp -->
+<!-- /sp:pagelayer/pl_col -->
+<!-- sp:pagelayer/pl_col {"overlay_hover_delay":"400","content_pos":"flex-start","col":"2","pagelayer-id":"e1i5725"} -->
+<!-- sp:pagelayer/pl_heading {"text":"\u003ch6\u003eproducts\u003c\/h6\u003e","heading_state":"normal","align":"left","color":"#000000ff","pagelayer-id":"ynx2096"} --><h6>products</h6><!-- /sp:pagelayer/pl_heading -->
+<!-- sp:pagelayer/pl_list {"list_type":"none","spacing":"18","list_text_state":"hover","item_indent":"10","list_icon_state":"normal","icon_color":"#0986c0","icon_border_type":"","icon_border_color":"#cbd2dc78","icon_border_width":"3","side_spacing":"0","list_color":"#000000ff","list_typo":"Roboto,14,,400,,,Solid,,,,","ele_margin":"20px,0px,0px,0px","list_color_hover":"#f9a392ff","list_hover_delay":"400","pagelayer-id":"2x01199"} -->
+<!-- sp:pagelayer/pl_list_item {"item":"Products","show_icon":"","icon":"fas fa-star","pagelayer-id":"kdx3372"} -->Products<!-- /sp:pagelayer/pl_list_item -->
+<!-- sp:pagelayer/pl_list_item {"item":"Pricing","show_icon":"","icon":"fas fa-star","pagelayer-id":"61j81"} -->Pricing<!-- /sp:pagelayer/pl_list_item -->
+<!-- sp:pagelayer/pl_list_item {"item":"Appointment","show_icon":"","icon":"fas fa-star","pagelayer-id":"9f18446"} -->Appointment<!-- /sp:pagelayer/pl_list_item -->
+<!-- sp:pagelayer/pl_list_item {"item":"Request Us","show_icon":"","icon":"fas fa-star","pagelayer-id":"7cl8442"} -->Request Us<!-- /sp:pagelayer/pl_list_item -->
+<!-- /sp:pagelayer/pl_list -->
+<!-- /sp:pagelayer/pl_col -->
+<!-- sp:pagelayer/pl_col {"overlay_hover_delay":"400","content_pos":"flex-start","col":"2","pagelayer-id":"lf05031"} -->
+<!-- sp:pagelayer/pl_heading {"text":"\u003ch6\u003equick links\u003c\/h6\u003e","heading_state":"normal","align":"left","color":"#000000ff","pagelayer-id":"xoa6553"} --><h6>quick links</h6><!-- /sp:pagelayer/pl_heading -->
+<!-- sp:pagelayer/pl_wp_menu {"nav_list":"3215","align":"left","layout":"vertical","pointer":"","m_animation":"slide","list_style":"none","submenu_ind":"caret-down","menu_bg_color_hover":"","menu_bg_color_active":"","horizontal_padding":"NaN","vertical_padding":"6","submenu_align":"left","submenu_color":"#ffffff","submenu_bg_color":"#0986c0","submenu_horizontal_padding":"10","submenu_vertical_padding":"10","submenu_left_margin":"10","menu_toggle_icon":"fas fa-bars","menu_toggle_align":"center","menu_toggle_bg_color":"#0986c050","menu_toggle_size":"30","slide_style":"pagelayer-wp_menu-right","menu_width":"30","menu_items_width":"100","menu_posy":"8","menu_bg":"color","close_size":"25","close_padding":"8","close_color":"#ffffff68","close_bg_color":"#00000036","close_hover_delay":"600","close_color_hover":"#ffffff","close_bg_color_hover":"#000000","submenu_position":"left","menu_items_bg":"#ffffff","menu_color":"#000000ff","menu_color_hover":"#f9a392ff","menu_color_active":"#f9a392ff","menu_typo":"Roboto,14,,400,,None,Solid,,,,","ele_margin":"20px,0px,0px,0px","menu_colors":"hover","pagelayer-id":"jkj7199"} /-->
+<!-- /sp:pagelayer/pl_col -->
+<!-- sp:pagelayer/pl_col {"overlay_hover_delay":"400","content_pos":"flex-start","col":"2","pagelayer-id":"nho1219"} -->
+<!-- sp:pagelayer/pl_heading {"text":"\u003ch6\u003eresources\u003c\/h6\u003e","heading_state":"normal","align":"left","color":"#000000ff","pagelayer-id":"r9n8332"} --><h6>resources</h6><!-- /sp:pagelayer/pl_heading -->
+<!-- sp:pagelayer/pl_list {"list_type":"none","spacing":"18","list_text_state":"hover","item_indent":"10","list_icon_state":"normal","icon_color":"#0986c0","icon_border_type":"","icon_border_color":"#cbd2dc78","icon_border_width":"3","side_spacing":"NaN","list_color":"#000000ff","list_typo":"Roboto,14,,400,,,Solid,,,,","ele_margin":"20px,0px,0px,0px","list_color_hover":"#f9a392ff","list_hover_delay":"400","pagelayer-id":"pk98970"} -->
+<!-- sp:pagelayer/pl_list_item {"item":"Help Center","show_icon":"","icon":"fas fa-star","pagelayer-id":"pby5057"} -->Help Center<!-- /sp:pagelayer/pl_list_item -->
+<!-- sp:pagelayer/pl_list_item {"item":"Book A Demo","show_icon":"","icon":"fas fa-star","pagelayer-id":"u5m4017"} -->Book A Demo<!-- /sp:pagelayer/pl_list_item -->
+<!-- sp:pagelayer/pl_list_item {"item":"Portfolio","show_icon":"","icon":"fas fa-star","pagelayer-id":"8ba7253"} -->Portfolio<!-- /sp:pagelayer/pl_list_item -->
+<!-- sp:pagelayer/pl_list_item {"item":"Blog post","show_icon":"","icon":"fas fa-star","pagelayer-id":"iik3130"} -->Blog post<!-- /sp:pagelayer/pl_list_item -->
+<!-- /sp:pagelayer/pl_list -->
+<!-- /sp:pagelayer/pl_col -->
+<!-- sp:pagelayer/pl_col {"overlay_hover_delay":"400","content_pos":"flex-start","col":"2","pagelayer-id":"bg03006"} -->
+<!-- sp:pagelayer/pl_heading {"text":"\u003ch6\u003eget in touch \u003c\/h6\u003e","heading_state":"normal","align":"left","color":"#000000ff","pagelayer-id":"uoo9329"} --><h6>get in touch </h6><!-- /sp:pagelayer/pl_heading -->
+<!-- sp:pagelayer/pl_email {"icon":"","color":"#000000ff","align":"flex-start","typography":"Roboto,16,,,,,Solid,,,,","ele_margin":"25px,0px,0px,0px","pagelayer-id":"dwn8561"} /-->
+<!-- sp:pagelayer/pl_phone {"icon":"","color":"#000000ff","typography":"Roboto,16,,,,,Solid,,,,","align":"flex-start","ele_margin":"20px,0px,0px,0px","pagelayer-id":"swf280"} /-->
+<!-- sp:pagelayer/pl_address {"icon":"","color":"#000000ff","align":"flex-start","typography":"Roboto,16,,,,,Solid,,,,","ele_margin":"20px,0px,0px,0px","pagelayer-id":"9hb4537"} /-->
+<!-- /sp:pagelayer/pl_col -->
+<!-- /sp:pagelayer/pl_row -->
+<!-- sp:pagelayer/pl_row {"stretch":"auto","col_gap":"10","width_content":"auto","row_height":"default","overlay_hover_delay":"400","row_shape_top_color":"#227bc3","row_shape_top_width":"100","row_shape_top_height":"100","row_shape_bottom_color":"#e44993","row_shape_bottom_width":"100","row_shape_bottom_height":"100","ele_bg_type":"color","ele_bg_color":"#f9a3921a","border_type":"solid","border_width":"2px,0px,0px,0px","border_color":"#ffffffff","ele_padding":"10px,0px,10px,0px","pagelayer-id":"s868426"} -->
+<!-- sp:pagelayer/pl_col {"overlay_hover_delay":"400","pagelayer-id":"ksg3072"} -->
+<!-- sp:pagelayer/pl_copyright {"copyright_text":"\u00a9 2021 Beautyfly Theme. All right Reserved","color":"#000000ff","align":"center","typography":"Noto Serif,16,,800,,None,Solid,,,,","pagelayer-id":"25o1579"} /-->
+<!-- /sp:pagelayer/pl_col -->
+<!-- /sp:pagelayer/pl_row -->

@@ -1,0 +1,32 @@
+
+
+===================== Images =====================
+
+about-img1.jpg => https://unsplash.com/photos/rlbh55iTLsY
+about-img2.jpg => https://unsplash.com/photos/xwM61TPMlYk
+blog1-img1.jpg => https://unsplash.com/photos/CWuKYuewjQk
+blog1-img2.jpg => https://unsplash.com/photos/7uoMmzPd2JA
+blog2-img1.jpg => https://unsplash.com/photos/WCPg9ROZbM0
+blog2-img2.jpg => https://unsplash.com/photos/Fsgzm8N0hIY
+blog3-img1.jpg => https://unsplash.com/photos/9YW_W7cjHkg
+blog3-img2.jpg => https://unsplash.com/photos/mfvTtNPjoPY
+blog4-img1.jpg => https://unsplash.com/photos/RzUhB5oHcJs
+blog5-img1.jpg => https://unsplash.com/photos/xQSim-3LgCQ
+home-banner.jpg => https://www.pexels.com/photo/photo-of-makeup-brushes-3800060/
+home-img1.jpg => https://unsplash.com/photos/sRSRuxkOuzI
+home-img2.jpg => https://unsplash.com/photos/2aiP_wxNrfU
+home-img3.jpg => https://unsplash.com/photos/VxAwTeiqDao
+home-img4.jpg => https://unsplash.com/photos/YnMFLQIlI-0
+services-img1.jpg => https://unsplash.com/photos/Pe9IXUuC6QU
+services-img2.jpg => https://unsplash.com/photos/X1s5YSBw8lU
+services-img3.jpg => https://unsplash.com/photos/ChYM19VFA1s
+services-img4.jpg => https://unsplash.com/photos/FkAZqQJTbXM
+team-img1.jpg => https://unsplash.com/photos/fOQm8vysvdY
+team-img2.jpg => https://unsplash.com/photos/r0l0Es5fbbs
+team-img3.jpg => https://unsplash.com/photos/AuCrXk0pLWo
+testimonial-img1.jpg => https://unsplash.com/photos/mEZ3PoFGs_k
+testimonial-img2.jpg => https://unsplash.com/photos/agGIKYs4mYs
+testimonial-img3.jpg => https://unsplash.com/photos/MWWKA47KemU
+testimonial-img4.jpg => https://unsplash.com/photos/d2s8NQ6WD24
+testimonial-img5.jpg => https://unsplash.com/photos/U-MqQPTvHoA
+top-all-bg.jpg => https://unsplash.com/photos/So4eFi-d1nc
