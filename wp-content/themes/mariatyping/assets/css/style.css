@@ -1980,9 +1980,14 @@ border:none;
 	.info-box .info-box_title{
 	font-weight:700;
 	text-transform:uppercase;
-	line-height:16px;
+
 	color:#fff;
 	margin-top:8px;
+	}
+
+	.info-box .info-box_text .info-box_subtite {
+		font-size: 12px !important	;
+		line-height:14px !important;
 	}
 	
 	.box-fx .inner{

@@ -11,7 +11,43 @@ background-size: 100% !important;
 #section-coming-soon{ background:none; position:absolute; min-height:100%; width:100%;z-index:1;}
 #section-gallery{background:#fff; width:101%;}
 #section-intro{background:url(../images/background/bg-4.jpg); overflow:hidden;}
+
+/*
 #section-intro-2{background:url(../images/background/bg-7.jpg); overflow:hidden;}
+*/
+
+#section-intro-2 {
+  position: relative;
+  overflow: hidden;
+  height: 100vh; /* Full screen height */
+}
+
+#section-intro-2 video {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  min-width: 100%;
+  min-height: 100%;
+  width: auto;
+  height: auto;
+  z-index: 0;
+  transform: translate(-50%, -50%);
+  object-fit: cover;
+}
+
+/* Optional: different z-index to layer them differently */
+#bg-video {
+  z-index: 0;
+}
+#bg-video-2 {
+  z-index: 1;
+}
+
+
+#section-intro-2 .content {
+  position: relative;
+  z-index: 2;
+}
 #section-welcome{background:url(../images/background/bg-9.jpg); overflow:hidden;}
 #section-why-choose-us{background:url(../images/background/bg-8.jpg) top fixed;}
 #section-testimonial{ background:url(../images/background/bg-3.jpg); background-size:cover;}

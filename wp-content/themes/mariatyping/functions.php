@@ -1,5 +1,19 @@
 <?php
 
+if( !function_exists('mariatyping_setup')) {
+    function mariatyping_setup() {
+        load_theme_textdomain('mariatyping', get_template_directory(). '/languages');
+        add_theme_support('title-tag');
+        add_theme_support('post-thumbnails');
+        add_theme_support('html5', array('search-form', 'comment-form', 'gallery', 'caption' ));
+        add_theme_support('customize-selective-refresh-widgets');
+        add_theme_support('responsive-embeds');
+        register_nav_menu('mainmenu', __('Main Menu'));
+    }
+}
+
+add_action('after_setup_theme', 'mariatyping_setup');
+
 function mariatyping_assets() {
     // Base CSS
     wp_enqueue_style('bootstrap', get_template_directory_uri() . '/assets/css/bootstrap.css');
@@ -35,6 +49,8 @@ function mariatyping_assets() {
     wp_deregister_script('jquery');
     wp_register_script('jquery', get_template_directory_uri() . '/assets/js/jquery.min.js', array(), null, true);
     wp_enqueue_script('jquery');
+
+    
 
     wp_enqueue_script('jpreloader', get_template_directory_uri() . '/assets/js/jpreLoader.js', array('jquery'), null, true);
     wp_enqueue_script('bootstrap', get_template_directory_uri() . '/assets/js/bootstrap.min.js', array('jquery'), null, true);

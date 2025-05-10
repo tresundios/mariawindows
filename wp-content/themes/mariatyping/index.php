@@ -1,12 +1,23 @@
 <?php
-    get_header();
+    get_header('home');
  ?>
         <!-- content begin -->
         <div id="content" class="no-bottom no-top">
 
             <!-- section begin -->
-            <section id="section-intro-2" aria-label="section-intro-2" class="full-height" data-stellar-background-ratio=".2">
-                <div class="center-y text-center">
+            <section id="section-intro-2" >
+                <!-- First video -->
+                <video autoplay muted loop playsinline id="bg-video">
+                <source src="<?php echo get_template_directory_uri(); ?>/assets/videos/hair-styling-hair-salon-1280x720.mp4" type="video/mp4">
+                    Your browser does not support the video tag.
+                </video>
+                 <!-- Second video -->
+                <!-- <video autoplay muted loop playsinline id="bg-video-2">
+                
+                <source src="<?php echo get_template_directory_uri(); ?>/assets/videos/home-facial-treatment-spa.mp4" type="video/mp4">
+                    Your browser does not support the video tag.
+                </video> -->
+                <div class="content center-y text-center">
 
                     <div class="spacer-single"></div>
                     <div class="type-wrap big-font">
@@ -41,7 +52,7 @@
                                             <i class="icon_clock_alt id-color"></i>
                                             <div class="info-box_text">
                                                 <div class="info-box_title">Opening Times</div>
-                                                <div class="info-box_subtite">Monday - Friday: 09:00 - 22:00</div>
+                                                <div class="info-box_subtite">Monday - Saturday: 10:00 AM - 08:00 PM</div>
                                             </div>
                                         </div>
                                     </div>
@@ -50,8 +61,8 @@
                                         <div class="info-box padding20">
                                             <i class="icon_house_alt id-color"></i>
                                             <div class="info-box_text">
-                                                <div class="info-box_title">Our Location</div>
-                                                <div class="info-box_subtite">100 Mainstreet Center, Sydney</div>
+                                            <div class="info-box_title">Address</div>
+                                                <div class="info-box_subtite">Door No: 39E, Swami Pillai Street, Asaripallam Road, Nesamony Nagar, Nagercoil - 629 201</div>
                                             </div>
                                         </div>
                                     </div>
@@ -61,7 +72,7 @@
                                             <i class="icon_calendar id-color"></i>
                                             <div class="info-box_text">
                                                 <div class="info-box_title">Book Now</div>
-                                                <div class="info-box_subtite">+208 333 9296</div>
+                                                <div class="info-box_subtite">+91 81480 64967</div>
                                             </div>
                                         </div>
                                     </div>
@@ -652,6 +663,9 @@
         </div>
 <?php
 // Include the footer
-get_footer();
+get_footer('home');
 // Close the wrapper div
 ?>
+
+
+
