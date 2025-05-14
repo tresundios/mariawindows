@@ -1,93 +1,21 @@
 <?php
-/**
- * Template Name: Bridal Home
- * Description: Bridal Home Page for Maria Beauty Care
- */
     get_header('home');
  ?>
         <!-- content begin -->
         <div id="content" class="no-bottom no-top">
 
-            <!-- revolution slider begin -->
-            <section id="section-slider" aria-label="section-slider" class="fullwidthbanner-container">
-                <div id="revolution-slider">
-                    <ul>
-                        <li data-transition="boxfade" data-slotamount="10" data-masterspeed="800" data-thumb="">
-                            <!--  BACKGROUND IMAGE -->
-                            <img src="<?php echo get_template_directory_uri(); ?>/assets/bridal/1.jpg" alt="" />
+            <!-- parallax section -->
+            <section id="section-intro" aria-label="section-intro" class="full-height overflow-hidden" data-stellar-background-ratio=".2">
+                <div class="center-y text-center absolute width100">
+                    <div class="spacer-double"></div>
 
-                            <div class="tp-caption big-white sfb"
-                                data-x="center"
-                                data-y="260"
-                                data-speed="1000"
-                                data-start="800"
-                                data-easing="easeInOutExpo"
-                                data-endspeed="450">
-                                Personalized looks to highlight your unique beauty and style.
-                            </div>
+                    <a href="https://www.youtube.com/watch?v=efVWyPNd3xw" class="popup-youtube play-button large"></a>
+                    <div class="spacer-single"></div>
 
-                            <div class="tp-caption ultra-big-white sfb"
-                                data-x="center"
-                                data-y="190"
-                                data-speed="1200"
-                                data-start="600"
-                                data-easing="easeInOutExpo"
-                                data-endspeed="400">
-                                Flawless Bridal Makeup
-                            </div>
-
-                            <div class="tp-caption sfb"
-                                data-x="center"
-                                data-y="320"
-                                data-speed="1000"
-                                data-start="1100"
-                                data-easing="easeInOutExpo">
-                                <a href="#" class="btn-slider">Explore Bridal Looks
-                                </a>
-                            </div>
-                        </li>
-
-                    
-                        <li data-transition="boxfade" data-slotamount="10" data-masterspeed="800" data-thumb="">
-                            <!--  BACKGROUND IMAGE -->
-                            <img src="<?php echo get_template_directory_uri(); ?>/assets/bridal/3.jpg" alt="" />
-
-                            <div class="tp-caption big-white sfb"
-                                data-x="center"
-                                data-y="260"
-                                data-speed="1000"
-                                data-start="800"
-                                data-easing="easeInOutExpo"
-                                data-endspeed="450">
-                               Elegant updos and romantic curls crafted for your dream day.
-                            </div>
-
-                            <div class="tp-caption ultra-big-white sfb"
-                                data-x="center"
-                                data-y="190"
-                                data-speed="1200"
-                                data-start="600"
-                                data-easing="easeInOutExpo"
-                                data-endspeed="400">
-                                Stunning Bridal Hairstyles
-                            </div>
-
-                            <div class="tp-caption sfb"
-                                data-x="center"
-                                data-y="320"
-                                data-speed="1000"
-                                data-start="1100"
-                                data-easing="easeInOutExpo">
-                                <a href="#" class="btn-slider">Schedule a Trial
-                                </a>
-                            </div>
-                        </li>
-
-         
-                    </ul>
                 </div>
             </section>
-            <!-- revolution slider close -->
+            <!-- parallax section close -->
+
 
 
             <div class="no-padding mt-130 height90px mobile-hide absolute z-index500 width100 text-light">
@@ -102,7 +30,7 @@
                                             <i class="icon_clock_alt id-color"></i>
                                             <div class="info-box_text">
                                                 <div class="info-box_title">Opening Times</div>
-                                                <div class="info-box_subtite">Monday - Friday: 09:00 - 22:00</div>
+                                                <div class="info-box_subtite">Monday - Saturday: 10:00 AM - 08:00 PM</div>
                                             </div>
                                         </div>
                                     </div>
@@ -111,8 +39,8 @@
                                         <div class="info-box padding20">
                                             <i class="icon_house_alt id-color"></i>
                                             <div class="info-box_text">
-                                                <div class="info-box_title">Our Location</div>
-                                                <div class="info-box_subtite">100 Mainstreet Center, Sydney</div>
+                                            <div class="info-box_title">Address</div>
+                                                <div class="info-box_subtite">Door No: 39E, Swami Pillai Street, Asaripallam Road, Nesamony Nagar, Nagercoil - 629 201</div>
                                             </div>
                                         </div>
                                     </div>
@@ -122,7 +50,7 @@
                                             <i class="icon_calendar id-color"></i>
                                             <div class="info-box_text">
                                                 <div class="info-box_title">Book Now</div>
-                                                <div class="info-box_subtite">+208 333 9296</div>
+                                                <div class="info-box_subtite">+91 81480 64967</div>
                                             </div>
                                         </div>
                                     </div>
@@ -154,7 +82,7 @@
                             </div>
                         </div>
 
-                        <div class="col-md-4 text-middle text-light" data-bgimage="url<?php echo get_template_directory_uri(); ?>/assets/images/background/bg-div-1.jpg)">
+                        <div class="col-md-4 text-middle text-light" data-bgimage="url(assets/images/background/bg-div-1.jpg)">
                             <div class="padding40 hoverdark30">
                                 <div class="box-icon">
                                     <i class="fa fa-tags wow zoomIn" data-wow-delay=".25s"></i>
@@ -185,22 +113,22 @@
                         <div class="de_tab tab_style_2 scrollTo">
                             <ul class="de_nav">
                                 <li class="active" data-link="#section-services-tab">
-                                    <img src="<?php echo get_template_directory_uri(); ?>/assets/images/services/service_1.jpg" alt=""><span>Hair</span><div class="v-border"></div>
+                                    <img src="images/services/service_1.jpg" alt=""><span>Hair</span><div class="v-border"></div>
                                 </li>
                                 <li data-link="#section-services-tab">
-                                    <img src="<?php echo get_template_directory_uri(); ?>/assets/images/services/service_2.jpg" alt=""><span>Make Up</span><div class="v-border"></div>
+                                    <img src="images/services/service_2.jpg" alt=""><span>Make Up</span><div class="v-border"></div>
                                 </li>
                                 <li data-link="#section-services-tab">
-                                    <img src="<?php echo get_template_directory_uri(); ?>/assets/images/services/service_3.jpg" alt=""><span>Facial</span><div class="v-border"></div>
+                                    <img src="images/services/service_3.jpg" alt=""><span>Facial</span><div class="v-border"></div>
                                 </li>
                                 <li data-link="#section-services-tab">
-                                    <img src="<?php echo get_template_directory_uri(); ?>/assets/images/services/service_4.jpg" alt=""><span>Massage</span><div class="v-border"></div>
+                                    <img src="images/services/service_4.jpg" alt=""><span>Massage</span><div class="v-border"></div>
                                 </li>
                                 <li data-link="#section-services-tab">
-                                    <img src="<?php echo get_template_directory_uri(); ?>/assets/images/services/service_5.jpg" alt=""><span>Nail</span><div class="v-border"></div>
+                                    <img src="images/services/service_5.jpg" alt=""><span>Nail</span><div class="v-border"></div>
                                 </li>
                                 <li data-link="#section-services-tab">
-                                    <img src="<?php echo get_template_directory_uri(); ?>/assets/images/services/service_6.jpg" alt=""><span>Waxing</span><div class="v-border"></div>
+                                    <img src="images/services/service_6.jpg" alt=""><span>Waxing</span><div class="v-border"></div>
                                 </li>
                             </ul>
 
@@ -559,26 +487,44 @@
 
 
             <!-- section begin -->
-            <section id="section-hero-2" aria-label="section-hero-2" data-stellar-background-ratio=".2" data-bgcolor="#333" class="text-light">
+            <section id="section-fun-facts" data-bgcolor="#eee">
                 <div class="container">
-                    <div class="row">
-                        <div class="col-md-12 mt60 mb100 text-center">
-                            <h4 class="mb30">Discover Our Services.</h4>
-                            <div class="small-border"></div>
-                            <div class="type-wrap font48 text-center">
-                                We do
-                            <div class="typed-strings">
-                                <p>Hair Care</p>
-                                <p>Make Up</p>
-                                <p>Facial</p>
-                                <p>Massage</p>
-                                <p>Nail Care</p>
-                                <p>Waxing</p>
+
+                    <div class="row mb60">
+
+                        <div class="col-md-3 wow fadeIn" data-wow-delay="0">
+                            <div class="de_count">
+                                <i class="icon-profile-male wow zoomIn" data-wow-delay="0"></i>
+                                <h3 class="timer" data-to="8250" data-speed="2500">0</h3>
+                                <span>Clients</span>
                             </div>
-                                <span class="typed"></span>
+                        </div>
+
+                        <div class="col-md-3 wow fadeIn" data-wow-delay=".25s">
+                            <div class="de_count">
+                                <i class="icon-beaker  wow zoomIn" data-wow-delay=".25s"></i>
+                                <h3 class="timer" data-to="4830" data-speed="2500">0</h3>
+                                <span>Treatments</span>
+                            </div>
+                        </div>
+
+                        <div class="col-md-3 wow fadeIn" data-wow-delay=".5s">
+                            <div class="de_count">
+                                <i class="icon-ribbon wow zoomIn" data-wow-delay=".5s"></i>
+                                <h3 class="timer" data-to="180" data-speed="2500">0</h3>
+                                <span>Therapists</span>
+                            </div>
+                        </div>
+
+                        <div class="col-md-3 wow fadeIn" data-wow-delay=".75s">
+                            <div class="de_count">
+                                <i class="icon-puzzle wow zoomIn" data-wow-delay=".75s"></i>
+                                <h3 class="timer" data-to="95" data-speed="2500">0</h3>
+                                <span>Procedures</span>
                             </div>
                         </div>
                     </div>
+
                 </div>
             </section>
             <!-- section close -->
@@ -698,9 +644,6 @@
 get_footer('home');
 // Close the wrapper div
 ?>
-
-
-
 
 
 

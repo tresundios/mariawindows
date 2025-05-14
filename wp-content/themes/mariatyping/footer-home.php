@@ -22,18 +22,13 @@
                             <div class="box-border double">
                                 <ul class="list-border-bottom">
                                     <li>
-                                        <span class="pull-left">Monday - Friday</span>
-                                        <span class="pull-right id-color">9 am to 10 pm</span>
-                                        <div class="clearfix"></div>
-                                    </li>
-                                    <li>
-                                        <span class="pull-left">Saturday</span>
-                                        <span class="pull-right id-color">9 am to 12 pm</span>
+                                        <span class="pull-left">Monday - Saturday</span>
+                                        <span class="pull-right id-color">10:00 am to 7:30 pm</span>
                                         <div class="clearfix"></div>
                                     </li>
                                     <li>
                                         <span class="pull-left">Sunday &amp; Holiday</span>
-                                        <span class="pull-right id-color">8 am to 12 pm</span>
+                                        <span class="pull-right id-color">Appointments only</span>
                                         <div class="clearfix"></div>
                                     </li>
                                 </ul>
@@ -46,11 +41,14 @@
                             <h3>Contact Us</h3>
 
                             <address>
-                                <span>100 Mainstreet Center, Sydney</span>
-                                <span><strong>Phone:</strong>(208) 333 9296</span>
-                                <span><strong>Fax:</strong>(208) 333 9298</span>
-                                <span><strong>Email:</strong><a href="mailto:contact@modis-salon.com">contact@modis-salon.com</a></span>
-                                <span><strong>Web:</strong><a href="#">http://modis-salon.com</a></span>
+                                   
+                                <span>Door No: 39E, Swami Pillai Street,</span>
+                                <span>Asaripallam Road,</span>
+                                <span>Nesamony Nagar,</span>
+                                <span>Nagercoil - 629 201</span>
+                                <span><strong>Phone:</strong>+91 81480 64967</span>
+                                <span><strong>Email:</strong><a href="mailto:contact@mariabeautycare.in">contact@mariabeautycare.in</a></span>
+                                <span><strong>Web:</strong><a href="#">https://mariabeautycare.in/</a></span>
                             </address>
                         </div>
                     </div>
