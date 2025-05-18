@@ -1,7 +1,7 @@
 <?php
 /**
- * Template Name: Hair Treatment
- * Description: Service 1 - Hair Treatment
+ * Template Name: Skin Care and Treatments
+ * Description: Service 3 - Skin Care and Treatments
  */
     get_header('home');
  ?>
@@ -10,7 +10,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-12">
-                        <h1>Hair Treatment</h1>
+                        <h1>Skin Care and Treatments</h1>
                     </div>
                 </div>
             </div>
@@ -29,91 +29,62 @@
                         <div class="col-md-5 col-md-offset-7">
                             <div class="padding40">
 
-
-
+                                <div class="sub-item-service">
+                                    <div class="c1">D-Tan</div>
+                                    <div class="c2"></div>
+                                </div>
 
                                 <div class="sub-item-service">
+                                    <div class="c1">Bleach</div>
+                                    <div class="c2"></div>
+                                </div>
 
+                                <div class="sub-item-service">
+                                  <div class="c1">Facial</div>
+                                  <div class="c2"></div>
+                                </div>
 
-                                    <div class="c1">Hair Colouring</div>
+                                <div class="sub-item-service">
+                                  <div class="c1">Pimple Treatment</div>
+                                  <div class="c2"></div>
+                                </div>
+
+                                <div class="sub-item-service">
+                                    <div class="c1">Pigmentation Treatment</div>
                                     <div class="c2"></div>
                                 </div>
 
 
                                 <div class="sub-item-service">
-                                    <div class="c1">Grey Hair Coverage</div>
-                                    <div class="c2"></div>
-                      
-                                </div>
-
-
-                                <div class="sub-item-service">
-                                                  <div class="c1">Root touch</div>
-                                                  <div class="c2"></div>
-                        
-</div>
-
-                                <div class="sub-item-service">
-                                              <div class="c1">Hair Spa</div>
-                           
-                                <div class="c2"></div>
-                                </div>
-
-
-                                <div class="sub-item-service">
-                                          <div class="c1">Hair Foaming</div>
-                              <div class="c2"></div>
-                                </div>
-
-
-                                <div class="sub-item-service">
-                                    <div class="c1">Straightening</div>
-                           <div class="c2"></div>
-                                </div>
-
-
-                                <div class="sub-item-service">
-                                         
-                                    <div class="c1">Smoothening</div>
-                                   <div class="c2"></div>
-                                </div>
-
-
-                                <div class="sub-item-service">
-                                    <div class="c1">Dandruff Treatment</div>
-                                   <div class="c2"></div>
-                                </div>
-
-
-                                <div class="sub-item-service">
-                                    <div class="c1">Hot Oil Massage</div>
-                                   <div class="c2"></div>
-                                </div>
-
-
-                                <div class="sub-item-service">
-                                    <div class="c1">Henna</div>
-                                   <div class="c2"></div>
-                                </div>
-
-
-                                <div class="sub-item-service">
-                                    <div class="c1">Shampeeling Scalp Treatment</div>
-                                   <div class="c2"></div>
-                                </div>
-
-
-                                <div class="sub-item-service">
-                                    <div class="c1">Keratin Treatment</div>
+                                    <div class="c1">Under Eye Treatment</div>
                                     <div class="c2"></div>
                                 </div>
 
                                 <div class="sub-item-service">
-                        
-                                    <div class="c1">Wax</div>
+                                    <div class="c1">Ultra Sonic Treatment</div>
                                     <div class="c2"></div>
                                 </div>
 
+                                <div class="sub-item-service">
+                                    <div class="c1">Peel-Off Mask</div>
+                                    <div class="c2"></div>
+                                </div>
+
+                                <div class="sub-item-service">
+                                    <div class="c1">Galvanic facial</div>
+                                    <div class="c2"></div>
+                                </div>
+
+                                <div class="sub-item-service">
+                                    <div class="c1">High frequency facial</div>
+                                    <div class="c2"></div>
+                                </div>
+
+
+                                <div class="sub-item-service">
+                                    <div class="c1">Body polishing</div>
+                                    <div class="c2"></div>
+                                </div>
 
                             </div>
                         </div>

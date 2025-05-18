@@ -135,22 +135,22 @@
                         <div class="de_tab tab_style_2 scrollTo">
                             <ul class="de_nav">
                                 <li class="active" data-link="#section-services-tab">
-                                    <img src="images/services/service_1.jpg" alt=""><span>Hair</span><div class="v-border"></div>
+                                    <img src="images/services/service_1.jpg" alt=""><span>Hair Treatments</span><div class="v-border"></div>
                                 </li>
                                 <li data-link="#section-services-tab">
-                                    <img src="images/services/service_2.jpg" alt=""><span>Make Up</span><div class="v-border"></div>
+                                    <img src="images/services/service_2.jpg" alt=""><span>Hair Styling</span><div class="v-border"></div>
                                 </li>
                                 <li data-link="#section-services-tab">
-                                    <img src="images/services/service_3.jpg" alt=""><span>Facial</span><div class="v-border"></div>
+                                    <img src="images/services/service_3.jpg" alt=""><span>Skin Care and Treatments</span><div class="v-border"></div>
                                 </li>
                                 <li data-link="#section-services-tab">
-                                    <img src="images/services/service_4.jpg" alt=""><span>Massage</span><div class="v-border"></div>
+                                    <img src="images/services/service_4.jpg" alt=""><span>Hand, Foot, and Nail Care</span><div class="v-border"></div>
                                 </li>
                                 <li data-link="#section-services-tab">
-                                    <img src="images/services/service_5.jpg" alt=""><span>Nail</span><div class="v-border"></div>
+                                    <img src="images/services/service_5.jpg" alt=""><span>Spa and Relaxation</span><div class="v-border"></div>
                                 </li>
                                 <li data-link="#section-services-tab">
-                                    <img src="images/services/service_6.jpg" alt=""><span>Waxing</span><div class="v-border"></div>
+                                    <img src="images/services/service_6.jpg" alt=""><span>Makeup and Styling</span><div class="v-border"></div>
                                 </li>
                             </ul>
 
@@ -162,108 +162,116 @@
 
                                         <div class="col-md-6">
                                             <div class="sub-item-service">
-                                                <div class="c1">Braids & Twist</div>
+                                                <div class="c1">Hair Colouring</div>
                                                 <div class="c2"></div>
-                                                <div class="c3">$35</div>
+                                      
                                             </div>
                                         </div>
 
 
                                         <div class="col-md-6">
                                             <div class="sub-item-service">
-                                                <div class="c1">Clipper Cut</div>
+                                                <div class="c1">Grey Hair Coverage</div>
                                                 <div class="c2"></div>
-                                                <div class="c3">$5</div>
+                                               
                                             </div>
                                         </div>
 
 
                                         <div class="col-md-6">
                                             <div class="sub-item-service">
-                                                <div class="c1">Color Rinse</div>
+                                                <div class="c1">Root touch</div>
                                                 <div class="c2"></div>
-                                                <div class="c3">$5</div>
+                                       
                                             </div>
                                         </div>
 
 
                                         <div class="col-md-6">
                                             <div class="sub-item-service">
-                                                <div class="c1">Corrective Color</div>
+                                                <div class="c1">Hair Spa</div>
                                                 <div class="c2"></div>
-                                                <div class="c3">$15</div>
+                                      
                                             </div>
                                         </div>
 
 
                                         <div class="col-md-6">
                                             <div class="sub-item-service">
-                                                <div class="c1">Extension Per Track</div>
+                                                <div class="c1">Hair Foaming</div>
                                                 <div class="c2"></div>
-                                                <div class="c3">$10</div>
+                                               
                                             </div>
                                         </div>
 
 
                                         <div class="col-md-6">
                                             <div class="sub-item-service">
-                                                <div class="c1"><span class="disc">10% Off</span>Full Foil</div>
+                                                <div class="c1">Straightening</div>
                                                 <div class="c2"></div>
-                                                <div class="c3">$38</div>
+                                   
                                             </div>
                                         </div>
 
 
                                         <div class="col-md-6">
                                             <div class="sub-item-service">
-                                                <div class="c1">Haircolor</div>
+                                                <div class="c1">Smoothening</div>
                                                 <div class="c2"></div>
-                                                <div class="c3">$15</div>
+                               
                                             </div>
                                         </div>
 
 
                                         <div class="col-md-6">
                                             <div class="sub-item-service">
-                                                <div class="c1">Haircut</div>
+                                                <div class="c1">Dandruff Treatment</div>
                                                 <div class="c2"></div>
-                                                <div class="c3">$9</div>
+                                             
                                             </div>
                                         </div>
 
 
                                         <div class="col-md-6">
                                             <div class="sub-item-service">
-                                                <div class="c1"><span class="disc">5% Off</span>Hair Extension</div>
+                                                <div class="c1">Hot Oil Massage</div>
                                                 <div class="c2"></div>
-                                                <div class="c3">$45</div>
+                                               
                                             </div>
                                         </div>
 
 
                                         <div class="col-md-6">
                                             <div class="sub-item-service">
-                                                <div class="c1">Kids Haircut</div>
+                                                <div class="c1">Henna</div>
                                                 <div class="c2"></div>
-                                                <div class="c3">$5</div>
+                                               
                                             </div>
                                         </div>
 
 
                                         <div class="col-md-6">
                                             <div class="sub-item-service">
-                                                <div class="c1">Partial Foil</div>
+                                                <div class="c1">Shampeeling Scalp Treatment</div>
                                                 <div class="c2"></div>
-                                                <div class="c3">$25</div>
+                                                
                                             </div>
                                         </div>
 
 
                                         <div class="col-md-6">
                                             <div class="sub-item-service">
-                                                <div class="c1">Thermal Add On</div>
+                                                <div class="c1">Keratin Treatment</div>
                                                 <div class="c2"></div>
-                                                <div class="c3">$20</div>
+                          
+                                            </div>
+                                        </div>
+
+                                        <div class="col-md-6">
+                                            <div class="sub-item-service">
+                                                <div class="c1">Wax</div>
+                                                <div class="c2"></div>
+                          
                                             </div>
                                         </div>
 
@@ -276,18 +284,18 @@
 
                                     <div class="col-md-6">
                                         <div class="sub-item-service">
-                                            <div class="c1">Full Face</div>
+                                            <div class="c1">Kids Cut - 2 Types</div>
                                             <div class="c2"></div>
-                                            <div class="c3">$20</div>
+                       
                                         </div>
                                     </div>
 
 
                                     <div class="col-md-6">
                                         <div class="sub-item-service">
-                                            <div class="c1">Eye Lasy Strip</div>
+                                            <div class="c1">Hair Cut - Advance layer cut</div>
                                             <div class="c2"></div>
-                                            <div class="c3">$12</div>
+                        
                                         </div>
                                     </div>
 
@@ -295,36 +303,36 @@
 
                                     <div class="col-md-6">
                                         <div class="sub-item-service">
-                                            <div class="c1">Teen Makeup</div>
+                                            <div class="c1">Butterfly Cut</div>
                                             <div class="c2"></div>
-                                            <div class="c3">$18</div>
+                           
                                         </div>
                                     </div>
 
 
                                     <div class="col-md-6">
                                         <div class="sub-item-service">
-                                            <div class="c1">Sweet Pea</div>
+                                            <div class="c1">Hair Ironing</div>
                                             <div class="c2"></div>
-                                            <div class="c3">$15</div>
+                          
                                         </div>
                                     </div>
 
 
                                     <div class="col-md-6">
                                         <div class="sub-item-service">
-                                            <div class="c1"><span class="disc">8% Off</span>Special Occasion Makeup</div>
+                                            <div class="c1">Hair Curling</div>
                                             <div class="c2"></div>
-                                            <div class="c3">$25</div>
+                                          
                                         </div>
                                     </div>
 
 
                                     <div class="col-md-6">
                                         <div class="sub-item-service">
-                                            <div class="c1">Wedding Day Make Up</div>
+                                            <div class="c1">Hair Style</div>
                                             <div class="c2"></div>
-                                            <div class="c3">$45</div>
+                             
                                         </div>
                                     </div>
 
@@ -336,36 +344,92 @@
 
                                     <div class="col-md-6">
                                         <div class="sub-item-service">
-                                            <div class="c1"><span class="disc">7% Off</span>Vitamin C Facial</div>
+                                            <div class="c1"><!--<span class="disc">7% Off</span>-->D-Tan</div>
                                             <div class="c2"></div>
-                                            <div class="c3">$42</div>
+                        
                                         </div>
                                     </div>
 
 
                                     <div class="col-md-6">
                                         <div class="sub-item-service">
-                                            <div class="c1">Acne Facial</div>
+                                            <div class="c1">Bleach</div>
                                             <div class="c2"></div>
-                                            <div class="c3">$20</div>
+                                            <!--<div class="c3">$20</div>-->
                                         </div>
                                     </div>
 
 
                                     <div class="col-md-6">
                                         <div class="sub-item-service">
-                                            <div class="c1">Anti Aging Facial</div>
+                                            <div class="c1">Facial</div>
                                             <div class="c2"></div>
-                                            <div class="c3">$40</div>
+                                            <!--<div class="c3">$40</div>-->
                                         </div>
                                     </div>
 
 
                                     <div class="col-md-6">
                                         <div class="sub-item-service">
-                                            <div class="c1">Sensitive Skin Facial</div>
+                                            <div class="c1">Pimple Treatment</div>
                                             <div class="c2"></div>
-                                            <div class="c3">$38</div>
+                                            <!--<div class="c3">$38</div>-->
+                                        </div>
+                                    </div>
+
+                                    <div class="col-md-6">
+                                        <div class="sub-item-service">
+                                            <div class="c1">Pigmentation Treatment</div>
+                                            <div class="c2"></div>
+                                            <!--<div class="c3">$38</div>-->
+                                        </div>
+                                    </div>
+
+                                    <div class="col-md-6">
+                                        <div class="sub-item-service">
+                                            <div class="c1">Under Eye Treatment</div>
+                                            <div class="c2"></div>
+                                            <!--<div class="c3">$38</div>-->
+                                        </div>
+                                    </div>
+
+                                    <div class="col-md-6">
+                                        <div class="sub-item-service">
+                                            <div class="c1">Ultra Sonic Treatment</div>
+                                            <div class="c2"></div>
+                                            <!--<div class="c3">$38</div>-->
+                                        </div>
+                                    </div>
+
+                                    <div class="col-md-6">
+                                        <div class="sub-item-service">
+                                            <div class="c1">Peel-Off Mask</div>
+                                            <div class="c2"></div>
+                                            <!--<div class="c3">$38</div>-->
+                                        </div>
+                                    </div>
+
+                                    <div class="col-md-6">
+                                        <div class="sub-item-service">
+                                            <div class="c1">Galvanic facial</div>
+                                            <div class="c2"></div>
+                                            <!--<div class="c3">$38</div>-->
+                                        </div>
+                                    </div>
+
+                                    <div class="col-md-6">
+                                        <div class="sub-item-service">
+                                            <div class="c1">High frequency facial</div>
+                                            <div class="c2"></div>
+                                            <!--<div class="c3">$38</div>-->
+                                        </div>
+                                    </div>
+
+                                    <div class="col-md-6">
+                                        <div class="sub-item-service">
+                                            <div class="c1">Body polishing</div>
+                                            <div class="c2"></div>
+                                            <!--<div class="c3">$38</div>-->
                                         </div>
                                     </div>
 
@@ -377,36 +441,36 @@
 
                                     <div class="col-md-6">
                                         <div class="sub-item-service">
-                                            <div class="c1">1 Hour - Essential Therapy</div>
+                                            <div class="c1">Pedicure</div>
                                             <div class="c2"></div>
-                                            <div class="c3">$49</div>
+                                            <!--<div class="c3">$49</div>-->
                                         </div>
                                     </div>
 
 
                                     <div class="col-md-6">
                                         <div class="sub-item-service">
-                                            <div class="c1">1 1/2 Hour - Complete Therapy</div>
+                                            <div class="c1">Manicure</div>
                                             <div class="c2"></div>
-                                            <div class="c3">$74</div>
+                                            <!--<div class="c3">$74</div>-->
                                         </div>
                                     </div>
 
 
                                     <div class="col-md-6">
                                         <div class="sub-item-service">
-                                            <div class="c1">2 Hour - Maximum Therapy</div>
+                                            <div class="c1">Nail Shaper</div>
                                             <div class="c2"></div>
-                                            <div class="c3">$99</div>
+                                            <!-- <div class="c3">$99</div> -->
                                         </div>
                                     </div>
 
 
                                     <div class="col-md-6">
                                         <div class="sub-item-service">
-                                            <div class="c1"><span class="disc">15% Off</span>Enhanced Therapy</div>
+                                            <div class="c1"><!-- <span class="disc">15% Off</span>-->Foot peel treatment</div> 
                                             <div class="c2"></div>
-                                            <div class="c3">$149</div>
+                                            <!-- <div class="c3">$149</div> -->
                                         </div>
                                     </div>
 
@@ -418,27 +482,27 @@
 
                                     <div class="col-md-6">
                                         <div class="sub-item-service">
-                                            <div class="c1">Pedicures</div>
+                                            <div class="c1">Spa</div>
                                             <div class="c2"></div>
-                                            <div class="c3">$25</div>
+                                            <!-- <div class="c3">$63</div> -->
                                         </div>
                                     </div>
 
 
                                     <div class="col-md-6">
                                         <div class="sub-item-service">
-                                            <div class="c1">Manicures</div>
+                                            <div class="c1">Aromatherapy massage</div>
                                             <div class="c2"></div>
-                                            <div class="c3">$28</div>
+                                            <!-- <div class="c3">$58</div> -->
                                         </div>
                                     </div>
 
-
+                                    
                                     <div class="col-md-6">
                                         <div class="sub-item-service">
-                                            <div class="c1">Nail Enhancements</div>
+                                            <div class="c1">Hot Oil massage</div>
                                             <div class="c2"></div>
-                                            <div class="c3">$65</div>
+                                            <!-- <div class="c3">$58</div> -->
                                         </div>
                                     </div>
 
@@ -450,18 +514,35 @@
 
                                     <div class="col-md-6">
                                         <div class="sub-item-service">
-                                            <div class="c1">Wax</div>
+                                            <div class="c1">Makeup</div>
                                             <div class="c2"></div>
-                                            <div class="c3">$63</div>
+                                            <!-- <div class="c3">$63</div> -->
                                         </div>
                                     </div>
 
 
                                     <div class="col-md-6">
                                         <div class="sub-item-service">
-                                            <div class="c1">Threading</div>
+                                            <div class="c1">Saree Draping</div>
                                             <div class="c2"></div>
-                                            <div class="c3">$58</div>
+                                            <!-- <div class="c3">$58</div> -->
+                                        </div>
+                                    </div>
+
+                                    
+                                    <div class="col-md-6">
+                                        <div class="sub-item-service">
+                                            <div class="c1">Saree Pre-Pleating</div>
+                                            <div class="c2"></div>
+                                            <!-- <div class="c3">$58</div> -->
+                                        </div>
+                                    </div>
+
+                                    <div class="col-md-6">
+                                        <div class="sub-item-service">
+                                            <div class="c1">Mehandi</div>
+                                            <div class="c2"></div>
+                                            <!-- <div class="c3">$58</div> -->
                                         </div>
                                     </div>
                                 </div>
@@ -487,15 +568,23 @@
                     <div class="row">
                         <div class="col-md-5 col-md-offset-7">
 
-                            <h2 class="wow-fadeIn">What They Says</h2>
+                            <h2 class="wow-fadeIn">What Client Says</h2>
                             <div class="small-border left wow zoomIn" data-wow-delay=".3s" data-wow-duration=".3s"></div>
 
                             <ul class="testimonial-list wow fadeIn" data-wow-delay=".25s">
-                                <li>They were so friendly and it was pleasure to get my hair done there. I'm very happy with services their provided. I will recommend this salon to my family and friends. Their pricing was competitive and their staff is professional.
-										<span>Lynda, Customer</span>
+                                <li>I booked hairstyle for my baby shower function and the result was so good. And I had a great experience from Maria Beauty Care at affordable price.
+										<span>Mini Vignesh, Nagercoil</span>
                                 </li>
-                                <li>A wonderful relaxing time, Thank you! The best salon in town as it proved by quality of staff and services. Their services make my feel so special. I always enjoy coming here, i would definitely return for future treatments. 
-										<span>Sarah, Customer</span>
+                                <li>I got a layer cut recently, and I'm absolutely loving it! The stylist had such a nice and friendly character it made the whole experience really comfortable. They really knew what they were doing, gave helpful suggestions, and made sure I was happy with the look every step of the way. The layers added so much volume and movement to my hair it feels light, fresh, and stylish. Highly recommend!
+										<span>Gil Jose, Nagercoil</span>
+                                </li>
+
+                                <li>Really awesome service. She is so friendly and happy to be with. She is so professional and guide in everything when come to services. I recommend everyone to visit once to see that yourself.
+										<span>Raja Linda, Nagercoil</span>
+                                </li>
+
+                                  <li>Had a very good service of pedicure and facial in recent times. Highly recommended.
+										<span>Letisha Smith, Nagercoil</span>
                                 </li>
                             </ul>
 
@@ -552,7 +641,7 @@
             <!-- section close -->
 
             <!-- section begin -->
-            <section id="section-blog" class="no-top">
+            <!-- <section id="section-blog" class="no-top">
                 <div class="container">
                     <div class="row">
 
@@ -641,7 +730,7 @@
                         </ul>
                     </div>
                 </div>
-            </section>
+            </section> -->
             <!-- section close -->
 
             <!-- section begin -->

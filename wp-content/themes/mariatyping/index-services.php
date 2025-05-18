@@ -25,7 +25,7 @@
                     <div class="row">
                         <div class="col-md-4 col-sm-6 col-xs-6 text-center">
                             <div class="picframe">
-                                <a href="service-details-1.html">
+                                <a href="<?php echo site_url(); ?>/hair-treatment">
                                     <span class="overlay img-circle">
                                         <span class="pf_text">
                                             <span class="project-name">View All Services</span>
@@ -37,14 +37,14 @@
                             </div>
 
                             <div class="spacer-single"></div>
-                            <h3>Hair Treatments</h3>
+                            <h3>Hair Treatment</h3>
                             <p>Revitalize hair with Dye, Keratin, Scalp Exfoliation. Hair Spa, Hot Oil Scalp Massage ensure vibrancy.</p>
                             <div class="spacer-half"></div>
                         </div>
 
                         <div class="col-md-4 col-sm-6 col-xs-6 text-center">
                             <div class="picframe">
-                                <a href="service-details-2.html">
+                                 <a href="<?php echo site_url(); ?>/hair-styling">
                                     <span class="overlay  img-circle">
                                         <span class="pf_text">
                                             <span class="project-name">View All Services</span>
@@ -62,7 +62,7 @@
 
                         <div class="col-md-4 col-sm-6 col-xs-6 text-center">
                             <div class="picframe">
-                                <a href="service-details-3.html">
+                                <a href="<?php echo site_url(); ?>/skin-care-and-treatments">
                                     <span class="overlay img-circle">
                                         <span class="pf_text ">
                                             <span class="project-name">View All Services</span>
@@ -81,7 +81,7 @@
 
                         <div class="col-md-4 col-sm-6 col-xs-6 text-center">
                             <div class="picframe">
-                                <a href="service-details-4.html">
+                                <a href="<?php echo site_url(); ?>/hand-foot-and-nail-care">
                                     <span class="overlay img-circle">
                                         <span class="pf_text">
                                             <span class="project-name">View All Services</span>
@@ -100,7 +100,7 @@
 
                         <div class="col-md-4 col-sm-6 col-xs-6 text-center">
                             <div class="picframe">
-                                <a href="service-details-5.html">
+                                <a href="<?php echo site_url(); ?>/spa-and-relaxation">
                                     <span class="overlay img-circle">
                                         <span class="pf_text">
                                             <span class="project-name">View All Services</span>
@@ -118,7 +118,7 @@
 
                         <div class="col-md-4 col-sm-6 col-xs-6 text-center">
                             <div class="picframe">
-                                <a href="service-details-6.html">
+                               <a href="<?php echo site_url(); ?>/makeup-and-styling">
                                     <span class="overlay img-circle">
                                         <span class="pf_text">
                                             <span class="project-name">View All Services</span>

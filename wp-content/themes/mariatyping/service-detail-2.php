@@ -1,7 +1,7 @@
 <?php
 /**
- * Template Name: Hair Treatment
- * Description: Service 1 - Hair Treatment
+ * Template Name: Hair Styling
+ * Description: Service 2 - Hair Styling
  */
     get_header('home');
  ?>
@@ -10,7 +10,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-12">
-                        <h1>Hair Treatment</h1>
+                        <h1>Hair Styling</h1>
                     </div>
                 </div>
             </div>
@@ -35,84 +35,43 @@
                                 <div class="sub-item-service">
 
 
-                                    <div class="c1">Hair Colouring</div>
+                                    <div class="c1">Kids Cut - 2 Types</div>
                                     <div class="c2"></div>
                                 </div>
 
 
                                 <div class="sub-item-service">
-                                    <div class="c1">Grey Hair Coverage</div>
+                                    <div class="c1">Hair Cut - Advance layer cut</div>
                                     <div class="c2"></div>
                       
                                 </div>
 
 
                                 <div class="sub-item-service">
-                                                  <div class="c1">Root touch</div>
+                                                  <div class="c1">Butterfly Cut</div>
                                                   <div class="c2"></div>
                         
 </div>
 
                                 <div class="sub-item-service">
-                                              <div class="c1">Hair Spa</div>
+                                              <div class="c1">Hair Ironing</div>
                            
                                 <div class="c2"></div>
                                 </div>
 
 
                                 <div class="sub-item-service">
-                                          <div class="c1">Hair Foaming</div>
+                                          <div class="c1">Hair Curling</div>
                               <div class="c2"></div>
                                 </div>
 
 
                                 <div class="sub-item-service">
-                                    <div class="c1">Straightening</div>
+                                    <div class="c1">Hair Style</div>
                            <div class="c2"></div>
                                 </div>
 
 
-                                <div class="sub-item-service">
-                                         
-                                    <div class="c1">Smoothening</div>
-                                   <div class="c2"></div>
-                                </div>
-
-
-                                <div class="sub-item-service">
-                                    <div class="c1">Dandruff Treatment</div>
-                                   <div class="c2"></div>
-                                </div>
-
-
-                                <div class="sub-item-service">
-                                    <div class="c1">Hot Oil Massage</div>
-                                   <div class="c2"></div>
-                                </div>
-
-
-                                <div class="sub-item-service">
-                                    <div class="c1">Henna</div>
-                                   <div class="c2"></div>
-                                </div>
-
-
-                                <div class="sub-item-service">
-                                    <div class="c1">Shampeeling Scalp Treatment</div>
-                                   <div class="c2"></div>
-                                </div>
-
-
-                                <div class="sub-item-service">
-                                    <div class="c1">Keratin Treatment</div>
-                                    <div class="c2"></div>
-                                </div>
-
-                                <div class="sub-item-service">
-                        
-                                    <div class="c1">Wax</div>
-                                    <div class="c2"></div>
-                                </div>
 
 
                             </div>
