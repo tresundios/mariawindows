@@ -61,7 +61,7 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-md-6">
-                            &copy; Copyright 2016 - Modis by Designesia                     
+                            &copy; Copyright 2025 - <a href="http://tresundios.com">Tresundios Software</a>
                         </div>
                         <div class="col-md-6 text-right">
                             <div class="social-icons">

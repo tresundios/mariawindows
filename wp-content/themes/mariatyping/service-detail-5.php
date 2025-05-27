@@ -19,7 +19,7 @@
 
         <!-- content begin -->
         <div id="content" class="no-bottom no-top">
-            <section id="services-hair" aria-label="services-hair" class="side-bg">
+            <section id="services-spa-n-relaxation" aria-label="services-hair" class="side-bg">
                 <div class="col-md-6 image-container">
                     <div class="background-image"></div>
                 </div>

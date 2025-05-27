@@ -62,7 +62,11 @@ background-size: 100% !important;
 /* section with side background image */
 #explore-1,#explore-2,#explore-4{background:#eee;}
 #explore-1.side-bg .background-image {background:url(../images/background/bg-side-2.jpg) top;}
+
+
 #explore-2.side-bg .background-image {background:url(../images/background/bg-side-1.jpg) top;}
+
+
 #explore-3.side-bg .background-image {background:url(../images/background/bg-side-1.jpg) top;}
 #explore-4.side-bg .background-image {background:url(../images/background/bg-side-4.jpg) top;}
 #explore-5{background:#50094d;}
@@ -86,7 +90,14 @@ background-size: 100% !important;
 
 
 /* subheader side background for services details page */
-#services-hair.side-bg .background-image {background:url(../images/background/bg-side-1.jpg) top;}
+#services-hair.side-bg .background-image {background:url(../services/1-hair-treatments.jpg) top;}
+#services-hairstyling.side-bg .background-image {background:url(../services/2-hair-style.jpg) top;}
+#services-skincare.side-bg .background-image { background:url(../services/3-skin-care-treatments.jpg)}
+#services-hand-foot-nail-care.side-bg .background-image { background:url(../services/4-hand-foot-nail.jpg)}
+#services-spa-n-relaxation.side-bg .background-image { background:url(../services/5-spa-relaxation.jpg)}
+#services-saree-draping.side-bg .background-image { background:url(../services/6-saree-draping.jpg)}
+
+
 #services-makeup.side-bg .background-image {background:url(../images/background/bg-side-4.jpg) top;}
 #services-facial.side-bg .background-image {background:url(../images/background/bg-side-5.jpg) top;}
 #services-massage.side-bg .background-image {background:url(../images/background/bg-side-6.jpg) top;}

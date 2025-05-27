@@ -72,7 +72,7 @@
                                             <i class="icon_calendar id-color"></i>
                                             <div class="info-box_text">
                                                 <div class="info-box_title">Book Now</div>
-                                                <div class="info-box_subtite">+91 81480 64967</div>
+                                                <div class="info-box_subtite">+91 81480 64967 <?php echo do_shortcode('[njwa_button id="227"]') ?></div>
                                             </div>
                                         </div>
                                     </div>
@@ -118,7 +118,9 @@
 
                         <div class="col-md-4 text-middle text-center" data-bgcolor="#50094d">
                             <div class="padding40">
-                                <a href="booking.html" class="btn btn-line-white btn-big wow fadeInUp" data-wow-delay=".3s">Make Appointment Now</a>
+                                <a href="booking/" class="btn btn-line-white btn-big wow fadeInUp" data-wow-delay=".3s">Make Appointment Now</a>
+                                <?php /*echo do_shortcode('[booking resource_id=1]');*/ ?>
+                          
                             </div>
                         </div>
 
