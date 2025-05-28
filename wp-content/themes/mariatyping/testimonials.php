@@ -1,4 +1,8 @@
 <?php
+/**
+ * Template Name: Testimonials
+ * Description: Testimonials
+ */
     get_header('home');
     get_template_part('template-parts/banner','testimonials');
 ?>
@@ -13,7 +17,7 @@
                         </blockquote>
                         <div class="de_testi_by">
                             <span class="de_testi_pic">
-                                <img src="images/misc/testi_pic%20(2).jpg" alt="" class="img-circle"></span>
+                                <img src="<?php echo get_template_directory_uri(); ?>/assets/images/misc/testi_pic%20(2).jpg" alt="" class="img-circle"></span>
                             <div class="de_testi_company">
                                 <strong>Mores</strong>, Customer
                             </div>
@@ -28,7 +32,7 @@
                         </blockquote>
                         <div class="de_testi_by">
                             <div class="de_testi_pic">
-                                <img src="images/misc/testi_pic%20(1).jpg" alt="" class="img-circle">
+                                <img src="<?php echo get_template_directory_uri(); ?>/assets/images/misc/testi_pic%20(1).jpg" alt="" class="img-circle">
                             </div>
                             <div class="de_testi_company">
                                 <strong>Feldhouse</strong>, Customer
@@ -44,7 +48,7 @@
                         </blockquote>
                         <div class="de_testi_by">
                             <div class="de_testi_pic">
-                                <img src="images/misc/testi-default.jpg" alt="" class="img-circle">
+                                <img src="<?php echo get_template_directory_uri(); ?>/assets/images/misc/testi-default.jpg" alt="" class="img-circle">
                             </div>
                             <div class="de_testi_company">
                                 <strong>Feldhouse</strong>, Customer
@@ -60,7 +64,7 @@
                         </blockquote>
                         <div class="de_testi_by">
                             <span class="de_testi_pic">
-                                <img src="images/misc/testi_pic%20(2).jpg" alt="" class="img-circle"></span>
+                                <img src="<?php echo get_template_directory_uri(); ?>/assets/images/misc/testi_pic%20(2).jpg" alt="" class="img-circle"></span>
                             <div class="de_testi_company">
                                 <strong>Mores</strong>, Customer
                             </div>
@@ -75,7 +79,7 @@
                         </blockquote>
                         <div class="de_testi_by">
                             <div class="de_testi_pic">
-                                <img src="images/misc/testi_pic%20(1).jpg" alt="" class="img-circle">
+                                <img src="<?php echo get_template_directory_uri(); ?>/assets/images/misc/testi_pic%20(1).jpg" alt="" class="img-circle">
                             </div>
                             <div class="de_testi_company">
                                 <strong>Barbara</strong>, Customer
@@ -91,7 +95,7 @@
                         </blockquote>
                         <div class="de_testi_by">
                             <div class="de_testi_pic">
-                                <img src="images/misc/testi-default.jpg" alt="" class="img-circle">
+                                <img src="<?php echo get_template_directory_uri(); ?>/assets/images/misc/testi-default.jpg" alt="" class="img-circle">
                             </div>
                             <div class="de_testi_company">
                                 <strong>Itweb</strong>, Customer
@@ -102,7 +106,12 @@
             </div>
         </div>
     </div>
+    
 </div>
+     <!-- section begin -->
+           <?php get_template_part('template-parts/offer-and-appointment'); ?>
+            <!-- section close -->
+
 <?php
 // Include the footer
 get_footer('home');

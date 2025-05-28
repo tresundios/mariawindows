@@ -139,23 +139,9 @@
                 </div>
             </section>
 
-
             <!-- section begin -->
-            <section id="cta" aria-label="cta" class="call-to-action bg-color-2 wow fadeInLeftBig text-light">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-md-9 mt10">
-                            <h3><i class="fa fa-phone mr10"></i>Contact us now and get special offers!</h3>
-                        </div>
-
-                        <div class="col-md-3 text-right">
-                            <a href="booking.html" class="btn btn-line-white btn-big">Make Appointment Now</a>
-                        </div>
-                    </div>
-                </div>
-            </section>
+           <?php get_template_part('template-parts/offer-and-appointment'); ?>
             <!-- section close -->
-
 
 
 

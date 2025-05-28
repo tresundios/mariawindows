@@ -5,13 +5,24 @@
 
                     <div class="col-md-4">
                         <div class="widget widget_recent_post">
-                            <h3>Latest News</h3>
-                            <ul>
-                                <li><a href="#">How to Make Your Hair Grow Faster </a></li>
-                                <li><a href="#">5 Ways to Make Hair Look Gorgeous</a></li>
-                                <li><a href="#">14 Easy Ways to Get Standout Eyes</a></li>
-                                <li><a href="#">An Owner’s Guide to Naturally Wavy Hair</a></li>
-                                <li><a href="#">How to Wash Your Hair (the Right Way)</a></li>
+                            <h3>Latest Blog</h3>
+                            <?php
+                            $args = array(
+                                'post_type' => 'post',
+                                'posts_per_page' => 5,
+                                'post_status' => 'publish',
+                                'order' => 'DESC',
+                                'orderby' => 'date',
+                            );
+                            $recent_posts = new WP_Query($args);
+                            if ($recent_posts->have_posts()) : ?>
+                                <ul>
+                                <?php while ($recent_posts->have_posts()) : $recent_posts->the_post(); ?>
+                                    <li><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a></li>
+                                <?php endwhile; ?>
+                            <?php else : ?>
+                                <p>No posts found.</p>
+                            <?php endif; ?>
                             </ul>
                         </div>
                     </div>

@@ -5128,3 +5128,16 @@ float:none;
 	}
 	.team img.team-pic{max-width:300px;}
 	}
+.blog-posts {
+    max-width: 800px;
+    margin: 0 auto;
+}
+.blog-posts article {
+    margin-bottom: 20px;
+    padding: 20px;
+    border-bottom: 1px solid #ddd;
+}
+.read-more {
+    color: #0073aa;
+    text-decoration: none;
+}

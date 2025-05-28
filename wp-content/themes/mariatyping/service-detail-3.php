@@ -27,6 +27,13 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-md-5 col-md-offset-7">
+                            <p>
+  Glow naturally with our rejuvenating <strong>Facials</strong>, smooth <strong>Waxing</strong>, and effective <strong>Pimple Treatments</strong>.  
+  Experience skin renewal with our advanced <strong>Ultra Sonic Therapy</strong>.  
+  Our refreshing <strong>Peel-Off Masks</strong> leave your skin clean, soft, and radiant.  
+  At Maria Beauty Care, we bring out your healthiest, most beautiful skin.
+</p>
+
                             <div class="padding40">
 
                                 <div class="sub-item-service">
@@ -92,21 +99,10 @@
                 </div>
             </section>
 
-            <!-- section begin -->
-            <section id="cta" aria-label="cta" class="call-to-action bg-color-2 wow fadeInLeftBig text-light">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-md-9 mt10">
-                            <h3><i class="fa fa-phone mr10"></i>Contact us now and get special offers!</h3>
-                        </div>
-
-                        <div class="col-md-3 text-right">
-                            <a href="booking.html" class="btn btn-line-white btn-big">Make Appointment Now</a>
-                        </div>
-                    </div>
-                </div>
-            </section>
+              <!-- section begin -->
+           <?php get_template_part('template-parts/offer-and-appointment'); ?>
             <!-- section close -->
+
 
         </div>
 <?php

@@ -27,6 +27,13 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-md-5 col-md-offset-7">
+                            <p>
+  Get the perfect <strong>Baby Cuts</strong> or go bold with stylish <strong>Curling</strong> services.  
+  Our expert stylists understand your preferences and bring out your natural beauty.  
+  Whether it's a casual day or a special celebration, we craft looks just for you.  
+  Trust Maria Beauty Care for hair transformations that turn heads.
+</p>
+
                             <div class="padding40">
 
 
@@ -80,21 +87,10 @@
                 </div>
             </section>
 
-            <!-- section begin -->
-            <section id="cta" aria-label="cta" class="call-to-action bg-color-2 wow fadeInLeftBig text-light">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-md-9 mt10">
-                            <h3><i class="fa fa-phone mr10"></i>Contact us now and get special offers!</h3>
-                        </div>
-
-                        <div class="col-md-3 text-right">
-                            <a href="booking.html" class="btn btn-line-white btn-big">Make Appointment Now</a>
-                        </div>
-                    </div>
-                </div>
-            </section>
+             <!-- section begin -->
+           <?php get_template_part('template-parts/offer-and-appointment'); ?>
             <!-- section close -->
+
 
         </div>
 <?php

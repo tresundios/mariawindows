@@ -32,8 +32,20 @@
                             </div>
                         <span class="typed"></span>
                     </div>
+                    
                     <div class="spacer-half"></div>
+                 
                     <div class="small-border"></div>
+
+                         <div class="tp-caption sfb"
+                                data-x="center"
+                                data-y="320"
+                                data-speed="1000"
+                                data-start="1100"
+                                data-easing="easeInOutExpo">
+                                <a href="booking/" class="btn-slider">Schedule a Trial
+                                </a>
+                            </div>
 
                 </div>
             </section>
@@ -72,7 +84,7 @@
                                             <i class="icon_calendar id-color"></i>
                                             <div class="info-box_text">
                                                 <div class="info-box_title">Book Now</div>
-                                                <div class="info-box_subtite">+91 81480 64967 <?php echo do_shortcode('[njwa_button id="227"]') ?></div>
+                                                <div class="info-box_subtite">+91 81480 64967 <?php //echo do_shortcode('[njwa_button id="227"]') ?></div>
                                             </div>
                                         </div>
                                     </div>
@@ -130,431 +142,7 @@
             <!-- section close -->
 
             <!-- section begin -->
-            <section id="section-services-tab" aria-label="section-services-tab">
-                <div class="container">
-
-                    <div class="col-md-12 wow fadeInUp">
-                        <div class="de_tab tab_style_2 scrollTo">
-                            <ul class="de_nav">
-                                <li class="active" data-link="#section-services-tab">
-                                    <img src="images/services/service_1.jpg" alt=""><span>Hair Treatments</span><div class="v-border"></div>
-                                </li>
-                                <li data-link="#section-services-tab">
-                                    <img src="images/services/service_2.jpg" alt=""><span>Hair Styling</span><div class="v-border"></div>
-                                </li>
-                                <li data-link="#section-services-tab">
-                                    <img src="images/services/service_3.jpg" alt=""><span>Skin Care and Treatments</span><div class="v-border"></div>
-                                </li>
-                                <li data-link="#section-services-tab">
-                                    <img src="images/services/service_4.jpg" alt=""><span>Hand, Foot, and Nail Care</span><div class="v-border"></div>
-                                </li>
-                                <li data-link="#section-services-tab">
-                                    <img src="images/services/service_5.jpg" alt=""><span>Spa and Relaxation</span><div class="v-border"></div>
-                                </li>
-                                <li data-link="#section-services-tab">
-                                    <img src="images/services/service_6.jpg" alt=""><span>Makeup and Styling</span><div class="v-border"></div>
-                                </li>
-                            </ul>
-
-                            <div class="de_tab_content">
-
-                                <div id="tab1" class="tab_single_content">
-                                    <div class="row">
-
-
-                                        <div class="col-md-6">
-                                            <div class="sub-item-service">
-                                                <div class="c1">Hair Colouring</div>
-                                                <div class="c2"></div>
-                                      
-                                            </div>
-                                        </div>
-
-
-                                        <div class="col-md-6">
-                                            <div class="sub-item-service">
-                                                <div class="c1">Grey Hair Coverage</div>
-                                                <div class="c2"></div>
-                                               
-                                            </div>
-                                        </div>
-
-
-                                        <div class="col-md-6">
-                                            <div class="sub-item-service">
-                                                <div class="c1">Root touch</div>
-                                                <div class="c2"></div>
-                                       
-                                            </div>
-                                        </div>
-
-
-                                        <div class="col-md-6">
-                                            <div class="sub-item-service">
-                                                <div class="c1">Hair Spa</div>
-                                                <div class="c2"></div>
-                                      
-                                            </div>
-                                        </div>
-
-
-                                        <div class="col-md-6">
-                                            <div class="sub-item-service">
-                                                <div class="c1">Hair Foaming</div>
-                                                <div class="c2"></div>
-                                               
-                                            </div>
-                                        </div>
-
-
-                                        <div class="col-md-6">
-                                            <div class="sub-item-service">
-                                                <div class="c1">Straightening</div>
-                                                <div class="c2"></div>
-                                   
-                                            </div>
-                                        </div>
-
-
-                                        <div class="col-md-6">
-                                            <div class="sub-item-service">
-                                                <div class="c1">Smoothening</div>
-                                                <div class="c2"></div>
-                               
-                                            </div>
-                                        </div>
-
-
-                                        <div class="col-md-6">
-                                            <div class="sub-item-service">
-                                                <div class="c1">Dandruff Treatment</div>
-                                                <div class="c2"></div>
-                                             
-                                            </div>
-                                        </div>
-
-
-                                        <div class="col-md-6">
-                                            <div class="sub-item-service">
-                                                <div class="c1">Hot Oil Massage</div>
-                                                <div class="c2"></div>
-                                               
-                                            </div>
-                                        </div>
-
-
-                                        <div class="col-md-6">
-                                            <div class="sub-item-service">
-                                                <div class="c1">Henna</div>
-                                                <div class="c2"></div>
-                                               
-                                            </div>
-                                        </div>
-
-
-                                        <div class="col-md-6">
-                                            <div class="sub-item-service">
-                                                <div class="c1">Shampeeling Scalp Treatment</div>
-                                                <div class="c2"></div>
-                                                
-                                            </div>
-                                        </div>
-
-
-                                        <div class="col-md-6">
-                                            <div class="sub-item-service">
-                                                <div class="c1">Keratin Treatment</div>
-                                                <div class="c2"></div>
-                          
-                                            </div>
-                                        </div>
-
-                                        <div class="col-md-6">
-                                            <div class="sub-item-service">
-                                                <div class="c1">Wax</div>
-                                                <div class="c2"></div>
-                          
-                                            </div>
-                                        </div>
-
-
-                                        <div class="clearfix"></div>
-                                    </div>
-                                </div>
-
-                                <div id="tab2" class="tab_single_content">
-
-                                    <div class="col-md-6">
-                                        <div class="sub-item-service">
-                                            <div class="c1">Kids Cut - 2 Types</div>
-                                            <div class="c2"></div>
-                       
-                                        </div>
-                                    </div>
-
-
-                                    <div class="col-md-6">
-                                        <div class="sub-item-service">
-                                            <div class="c1">Hair Cut - Advance layer cut</div>
-                                            <div class="c2"></div>
-                        
-                                        </div>
-                                    </div>
-
-
-
-                                    <div class="col-md-6">
-                                        <div class="sub-item-service">
-                                            <div class="c1">Butterfly Cut</div>
-                                            <div class="c2"></div>
-                           
-                                        </div>
-                                    </div>
-
-
-                                    <div class="col-md-6">
-                                        <div class="sub-item-service">
-                                            <div class="c1">Hair Ironing</div>
-                                            <div class="c2"></div>
-                          
-                                        </div>
-                                    </div>
-
-
-                                    <div class="col-md-6">
-                                        <div class="sub-item-service">
-                                            <div class="c1">Hair Curling</div>
-                                            <div class="c2"></div>
-                                          
-                                        </div>
-                                    </div>
-
-
-                                    <div class="col-md-6">
-                                        <div class="sub-item-service">
-                                            <div class="c1">Hair Style</div>
-                                            <div class="c2"></div>
-                             
-                                        </div>
-                                    </div>
-
-
-                                    <div class="clearfix"></div>
-                                </div>
-
-                                <div id="tab3" class="tab_single_content">
-
-                                    <div class="col-md-6">
-                                        <div class="sub-item-service">
-                                            <div class="c1"><!--<span class="disc">7% Off</span>-->D-Tan</div>
-                                            <div class="c2"></div>
-                        
-                                        </div>
-                                    </div>
-
-
-                                    <div class="col-md-6">
-                                        <div class="sub-item-service">
-                                            <div class="c1">Bleach</div>
-                                            <div class="c2"></div>
-                                            <!--<div class="c3">$20</div>-->
-                                        </div>
-                                    </div>
-
-
-                                    <div class="col-md-6">
-                                        <div class="sub-item-service">
-                                            <div class="c1">Facial</div>
-                                            <div class="c2"></div>
-                                            <!--<div class="c3">$40</div>-->
-                                        </div>
-                                    </div>
-
-
-                                    <div class="col-md-6">
-                                        <div class="sub-item-service">
-                                            <div class="c1">Pimple Treatment</div>
-                                            <div class="c2"></div>
-                                            <!--<div class="c3">$38</div>-->
-                                        </div>
-                                    </div>
-
-                                    <div class="col-md-6">
-                                        <div class="sub-item-service">
-                                            <div class="c1">Pigmentation Treatment</div>
-                                            <div class="c2"></div>
-                                            <!--<div class="c3">$38</div>-->
-                                        </div>
-                                    </div>
-
-                                    <div class="col-md-6">
-                                        <div class="sub-item-service">
-                                            <div class="c1">Under Eye Treatment</div>
-                                            <div class="c2"></div>
-                                            <!--<div class="c3">$38</div>-->
-                                        </div>
-                                    </div>
-
-                                    <div class="col-md-6">
-                                        <div class="sub-item-service">
-                                            <div class="c1">Ultra Sonic Treatment</div>
-                                            <div class="c2"></div>
-                                            <!--<div class="c3">$38</div>-->
-                                        </div>
-                                    </div>
-
-                                    <div class="col-md-6">
-                                        <div class="sub-item-service">
-                                            <div class="c1">Peel-Off Mask</div>
-                                            <div class="c2"></div>
-                                            <!--<div class="c3">$38</div>-->
-                                        </div>
-                                    </div>
-
-                                    <div class="col-md-6">
-                                        <div class="sub-item-service">
-                                            <div class="c1">Galvanic facial</div>
-                                            <div class="c2"></div>
-                                            <!--<div class="c3">$38</div>-->
-                                        </div>
-                                    </div>
-
-                                    <div class="col-md-6">
-                                        <div class="sub-item-service">
-                                            <div class="c1">High frequency facial</div>
-                                            <div class="c2"></div>
-                                            <!--<div class="c3">$38</div>-->
-                                        </div>
-                                    </div>
-
-                                    <div class="col-md-6">
-                                        <div class="sub-item-service">
-                                            <div class="c1">Body polishing</div>
-                                            <div class="c2"></div>
-                                            <!--<div class="c3">$38</div>-->
-                                        </div>
-                                    </div>
-
-
-                                    <div class="clearfix"></div>
-                                </div>
-
-                                <div id="tab4" class="tab_single_content">
-
-                                    <div class="col-md-6">
-                                        <div class="sub-item-service">
-                                            <div class="c1">Pedicure</div>
-                                            <div class="c2"></div>
-                                            <!--<div class="c3">$49</div>-->
-                                        </div>
-                                    </div>
-
-
-                                    <div class="col-md-6">
-                                        <div class="sub-item-service">
-                                            <div class="c1">Manicure</div>
-                                            <div class="c2"></div>
-                                            <!--<div class="c3">$74</div>-->
-                                        </div>
-                                    </div>
-
-
-                                    <div class="col-md-6">
-                                        <div class="sub-item-service">
-                                            <div class="c1">Nail Shaper</div>
-                                            <div class="c2"></div>
-                                            <!-- <div class="c3">$99</div> -->
-                                        </div>
-                                    </div>
-
-
-                                    <div class="col-md-6">
-                                        <div class="sub-item-service">
-                                            <div class="c1"><!-- <span class="disc">15% Off</span>-->Foot peel treatment</div> 
-                                            <div class="c2"></div>
-                                            <!-- <div class="c3">$149</div> -->
-                                        </div>
-                                    </div>
-
-
-                                    <div class="clearfix"></div>
-                                </div>
-
-                                <div id="tab5" class="tab_single_content">
-
-                                    <div class="col-md-6">
-                                        <div class="sub-item-service">
-                                            <div class="c1">Spa</div>
-                                            <div class="c2"></div>
-                                            <!-- <div class="c3">$63</div> -->
-                                        </div>
-                                    </div>
-
-
-                                    <div class="col-md-6">
-                                        <div class="sub-item-service">
-                                            <div class="c1">Aromatherapy massage</div>
-                                            <div class="c2"></div>
-                                            <!-- <div class="c3">$58</div> -->
-                                        </div>
-                                    </div>
-
-                                    
-                                    <div class="col-md-6">
-                                        <div class="sub-item-service">
-                                            <div class="c1">Hot Oil massage</div>
-                                            <div class="c2"></div>
-                                            <!-- <div class="c3">$58</div> -->
-                                        </div>
-                                    </div>
-
-
-                                    <div class="clearfix"></div>
-                                </div>
-
-                                <div id="tab6" class="tab_single_content">
-
-                                    <div class="col-md-6">
-                                        <div class="sub-item-service">
-                                            <div class="c1">Makeup</div>
-                                            <div class="c2"></div>
-                                            <!-- <div class="c3">$63</div> -->
-                                        </div>
-                                    </div>
-
-
-                                    <div class="col-md-6">
-                                        <div class="sub-item-service">
-                                            <div class="c1">Saree Draping</div>
-                                            <div class="c2"></div>
-                                            <!-- <div class="c3">$58</div> -->
-                                        </div>
-                                    </div>
-
-                                    
-                                    <div class="col-md-6">
-                                        <div class="sub-item-service">
-                                            <div class="c1">Saree Pre-Pleating</div>
-                                            <div class="c2"></div>
-                                            <!-- <div class="c3">$58</div> -->
-                                        </div>
-                                    </div>
-
-                                    <div class="col-md-6">
-                                        <div class="sub-item-service">
-                                            <div class="c1">Mehandi</div>
-                                            <div class="c2"></div>
-                                            <!-- <div class="c3">$58</div> -->
-                                        </div>
-                                    </div>
-                                </div>
-
-                            </div>
-
-                        </div>
-                    </div>
-                </div>
-            </section>
+           <?php get_template_part('template-parts/service-small'); ?>
             <!-- section close -->
 
 
@@ -600,7 +188,7 @@
 
 
             <!-- section begin -->
-            <section id="section-fun-facts" data-bgcolor="#eee">
+            <!-- <section id="section-fun-facts" data-bgcolor="#eee">
                 <div class="container">
 
                     <div class="row mb60">
@@ -639,7 +227,7 @@
                     </div>
 
                 </div>
-            </section>
+            </section> -->
             <!-- section close -->
 
             <!-- section begin -->
@@ -736,19 +324,7 @@
             <!-- section close -->
 
             <!-- section begin -->
-            <section id="cta" aria-label="cta" class="call-to-action bg-color-2 wow fadeInLeftBig text-light">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-md-9 mt10">
-                            <h3><i class="fa fa-phone mr10"></i>Contact us now and get special offers!</h3>
-                        </div>
-
-                        <div class="col-md-3 text-right">
-                            <a href="booking.html" class="btn btn-line-white btn-big">Make Appointment Now</a>
-                        </div>
-                    </div>
-                </div>
-            </section>
+           <?php get_template_part('template-parts/offer-and-appointment'); ?>
             <!-- section close -->
 
         </div>
