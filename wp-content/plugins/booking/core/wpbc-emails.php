@@ -54,8 +54,6 @@ function wpbc_validate_emails( $emails ) {
 
         $emails_list[] =   ( empty( $recipient_name ) ? '' : $recipient_name . ' '  )
                            . '<' . sanitize_email( $recipient ) . '>';		
-        $emails_list[] = "Maria"
-                           . '<mariajayaseelan12@gmail.com>';		
     }
 
     $emails_list = implode( ',', $emails_list );

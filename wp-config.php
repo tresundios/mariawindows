@@ -31,7 +31,18 @@ define( 'DB_USER', 'root' );
 define( 'DB_PASSWORD', '' );
 
 /** Database hostname */
-define( 'DB_HOST', 'localhost' );
+define( 'DB_HOST', 'localhost:3308' );
+
+// define( 'DB_NAME', 'mariabea_hp' );
+
+// /** Database username */
+// define( 'DB_USER', 'mariabea_hp' );
+
+// /** Database password */
+// define( 'DB_PASSWORD', 'XQvucAUuqaxP282ySDMW' );
+
+// /** Database hostname */
+// define( 'DB_HOST', 'localhost' );
 
 /** Database charset to use in creating database tables. */
 define( 'DB_CHARSET', 'utf8mb4' );
@@ -87,7 +98,7 @@ $table_prefix = 'wp_';
  *
  * @link https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/
  */
-define( 'WP_DEBUG', false );
+define( 'WP_DEBUG', FALSE );
 
 /* Add any custom values between this line and the "stop editing" line. */
 
