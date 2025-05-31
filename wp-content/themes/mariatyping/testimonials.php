@@ -10,99 +10,90 @@
     <div class="container">
         <div class="row">
             <div class="masonry">
-                <div class="col-md-4 marginbottom30 item">
-                    <div class="de_testi">
-                        <blockquote>
-                            <p>Everything is nicely accessible inside the theme customization screen. It is easily comprehensible, the way things work is very natural and intuitive.</p>
-                        </blockquote>
-                        <div class="de_testi_by">
-                            <span class="de_testi_pic">
-                                <img src="<?php echo get_template_directory_uri(); ?>/assets/images/misc/testi_pic%20(2).jpg" alt="" class="img-circle"></span>
-                            <div class="de_testi_company">
-                                <strong>Mores</strong>, Customer
-                            </div>
-                        </div>
-                    </div>
-                </div>
 
-                <div class="col-md-4 marginbottom30 item">
-                    <div class="de_testi">
-                        <blockquote>
-                            <p>The support staff is AMAZING. Same day service. They also have built a GREAT theme that supports so many functions. You can tweak little things here and there and use its functionality for SO much more! What an AWESOME AWESOME AWESOME theme.</p>
-                        </blockquote>
-                        <div class="de_testi_by">
-                            <div class="de_testi_pic">
-                                <img src="<?php echo get_template_directory_uri(); ?>/assets/images/misc/testi_pic%20(1).jpg" alt="" class="img-circle">
-                            </div>
-                            <div class="de_testi_company">
-                                <strong>Feldhouse</strong>, Customer
-                            </div>
-                        </div>
-                    </div>
-                </div>
 
-                <div class="col-md-4 marginbottom30 item">
-                    <div class="de_testi">
-                        <blockquote>
-                            <p>There are some themes I have bought and are just 'eh' about. This one hands down does so much more than you could think. Perfect theme - and thanks for continually updating and improving it!</p>
-                        </blockquote>
-                        <div class="de_testi_by">
-                            <div class="de_testi_pic">
-                                <img src="<?php echo get_template_directory_uri(); ?>/assets/images/misc/testi-default.jpg" alt="" class="img-circle">
-                            </div>
-                            <div class="de_testi_company">
-                                <strong>Feldhouse</strong>, Customer
-                            </div>
-                        </div>
-                    </div>
-                </div>
+                <?php
 
-                <div class="col-md-4 marginbottom30 item">
-                    <div class="de_testi">
-                        <blockquote>
-                            <p>All of my questions were answered, designesia was very forthcoming and helpful and even sent me custom code for a specific problem I had. I know one thing: whatever theme designesia publishes, you can be assured that you get the best quality and support out there.</p>
-                        </blockquote>
-                        <div class="de_testi_by">
-                            <span class="de_testi_pic">
-                                <img src="<?php echo get_template_directory_uri(); ?>/assets/images/misc/testi_pic%20(2).jpg" alt="" class="img-circle"></span>
-                            <div class="de_testi_company">
-                                <strong>Mores</strong>, Customer
-                            </div>
-                        </div>
-                    </div>
-                </div>
+                
 
-                <div class="col-md-4 marginbottom30 item">
-                    <div class="de_testi">
-                        <blockquote>
-                            <p>Again, great template and I love that it works on the computer, iPad, phone, etc. Very clean design, keep up the great work!</p>
-                        </blockquote>
-                        <div class="de_testi_by">
-                            <div class="de_testi_pic">
-                                <img src="<?php echo get_template_directory_uri(); ?>/assets/images/misc/testi_pic%20(1).jpg" alt="" class="img-circle">
-                            </div>
-                            <div class="de_testi_company">
-                                <strong>Barbara</strong>, Customer
-                            </div>
-                        </div>
-                    </div>
-                </div>
+                $testimonials = array();
 
-                <div class="col-md-4 marginbottom30 item">
-                    <div class="de_testi">
-                        <blockquote>
-                            <p>Fit our needs like a glove. 1 hour to setup. I am currently implementing the language support Thanks for the awesome.</p>
-                        </blockquote>
-                        <div class="de_testi_by">
-                            <div class="de_testi_pic">
-                                <img src="<?php echo get_template_directory_uri(); ?>/assets/images/misc/testi-default.jpg" alt="" class="img-circle">
-                            </div>
-                            <div class="de_testi_company">
-                                <strong>Itweb</strong>, Customer
-                            </div>
-                        </div>
-                    </div>
-                </div>
+                array_push($testimonials, array("client_name" => "Mini Vignesh", 
+                                                "image_name" => "default.jpg" ,
+                                                "review" => "I booked hairstyle for my baby shower function and the result was so good. And I had a great experience from Maria Beauty Care at affordable price."));
+                array_push($testimonials, array("client_name" => "Gil Jose", 
+                                                "image_name" => "default.jpg" , 
+                                                "review" => "I got a layer cut recently, and I'm absolutely loving it! The stylist had such a nice and friendly character it made the whole experience really comfortable. They really knew what they were doing, gave helpful suggestions, and made sure I was happy with the look every step of the way. The layers added so much volume and movement to my hair it feels light, fresh, and stylish. Highly recommend!  "));
+                array_push($testimonials, array("client_name" => "Raja Linda", 
+                                                "image_name" => "default.jpg" , 
+                                                "review" => "Really awesome service. She is so friendly and happy to be with. She is so professional and guide in everything when come to services. I recommend everyone to visit once to see that yourself."));        
+                array_push($testimonials, array("client_name" => "Letisha Smith", 
+                                                "image_name" => "default.jpg" , 
+                                                "review" => "Had a very good service of pedicure and facial in recent times. Highly recommended."));       
+                array_push($testimonials, array("client_name" => "M Gokul", 
+                                                "image_name" => "default.jpg" , 
+                                                "review" => "Tq so much maria Beauty care for. Your efforts in making my hair styling special. I had a great experience at your place very friendly atmosphere best place for ladies to visit and opt for all kinds of services tq so much for your huge efforts and perfection.hope to visit soon"));       
+                array_push($testimonials, array("client_name" => "Vinusanthiya", 
+                                                "image_name" => "default.jpg" , 
+                                                "review" => "Just had the most amazing spa day, the facial, D-tan, eyebrow, services were top-notch. Highly recommend."));       
+                array_push($testimonials, array("client_name" => "Berna Binu", 
+                                                "image_name" => "default.jpg" , 
+                                                "review" => "Best salon.... Top notch service.expert stylist very kind and good ambiance.fully satisified."));       
+                                                
+                array_push($testimonials, array("client_name" => "Jose Jenish", 
+                                                "image_name" => "default.jpg" , 
+                                                "review" => "Maria smoothing treatment was life changing my hair is now silky and frizz free for months!"));       
+                
+                array_push($testimonials, array("client_name" => "Bavithra S", 
+                                                "image_name" => "default.jpg" , 
+                                                "review" => "I'm very satisfied with her work. I've did my bridal makeup. Totally changed my appearance and its really awesome. Sis is very friendly & profesional. Keep rocking sisy"));
+                
+                array_push($testimonials, array("client_name" => "Aniginosweety A", 
+                                                "image_name" => "default.jpg" , 
+                                                "review" => "I'm very satisfied with her services. Felt very comfortable by her approach. I've did haircut.she did magic for me. Totally changed my appearance with a simple haircut. Highly recommended. She is friendly & Profesional."));
+
+                array_push($testimonials, array("client_name" => "Kavitha Raj", 
+                                                "image_name" => "default.jpg" , 
+                                                "review" => "Really nice and good service. Good quality products are being used. Really satisfied with their service. Must recommended for their good service"));   
+                                                
+                array_push($testimonials, array("client_name" => "Pooja Malathi", 
+                                                "image_name" => "default.jpg" , 
+                                                "review" => "I'm very impressed with the service"));  
+
+                array_push($testimonials, array("client_name" => "Sruthi V", 
+                                                "image_name" => "default.jpg" , 
+                                                "review" => "That was perfect find for an outsiders who come for the services.. i had an amazing session with them. Eyebrows threading, facial, hair massage and wash, bridal mehandi. Altogether in a reasonable rate and completely satisfied with the hospitality. Genuinely very much recommended for any services.. My mom had her hair coloring and facial too and she is looking stunning.... Thanks to the beautiful changeover")); 
+
+                array_push($testimonials, array("client_name" => "Gayathri", 
+                                                "image_name" => "default.jpg" , 
+                                                "review" => "Superb service, perfect in work and satisfies customer's expectation.")); 
+
+
+                array_push($testimonials, array("client_name" => "Brintha Lingam", 
+                                                "image_name" => "default.jpg" , 
+                                                "review" => "I am a person who will suggest everyone to go in the natural basics treatment but after coming here for the first time today I loved the way they treated me and maintained my hair with good care and I loved all their products. To be frank I loved my hair so much it was so soft and I loved my self so much. Also they suggested me many Hairstyles for my look and also had a front cut for my face look. I looked myself like a new person. Self love is increasing by the magic performed by their hand. Thank you mam and sir")); 
+
+                array_push($testimonials, array("client_name" => "Preethi Jospeh", 
+                                                "image_name" => "default.jpg" , 
+                                                "review" => "Excellent service. I went for hair cut for my daughter. Professional cut ND shape.")); 
+
+                array_push($testimonials, array("client_name" => "Rengeshz Hariharan", 
+                                                "image_name" => "default.jpg" , 
+                                                "review" => "Hello Maria- been quite busy- I never forget to leave you a review here - thanks to my friends who introduced you and brother - I'm flattered about ur passion towards makeup and you are doing really really well. Kudos to the team.  The reason for my visit was hair coloring that was a great work done I loved it and thanks again looking forward to visit the salon soon.")); 
+                // Loop to show 11 gallery items
+                // Loop to show 11 gallery items
+                for ($i = 0; $i < count($testimonials); $i++) :
+                    $client_name = $testimonials[$i]["client_name"];
+                    $image_url = get_template_directory_uri() . "/assets/testimonial/".$testimonials[$i]["image_name"];
+                    
+                    $review =  $testimonials[$i]["review"];
+                
+                ?>
+                    <?php get_template_part('template-parts/each-testimonial', null, ['client_name'=> $client_name,'image_url' => $image_url,'review' => $review]); ?>
+                    <!-- close gallery item -->
+                <?php endfor ?>
+
+
             </div>
         </div>
     </div>
