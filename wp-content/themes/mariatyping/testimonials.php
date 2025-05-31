@@ -8,6 +8,31 @@
 ?>
 <div id="content">
     <div class="container">
+   <div class="text-center" style="margin-bottom: 40px;">
+ 
+  <p style="font-size: 16px; max-width: 700px; margin: 10px auto;">
+    At <strong>Maria Beauty Care</strong>, we value every client’s voice. Read what our happy customers have shared below —
+    and if you've visited us, we’d love to hear your story too!
+  </p>
+  <a href="https://g.page/r/CW_gupc7EZ1PEAE/review" target="_blank" class="btn-line"
+     style="display: inline-block; margin-top: 15px; padding: 12px 25px; border: 2px solid #e91e63; color: #e91e63; border-radius: 30px; text-decoration: none; font-weight: bold;">
+    ✍️ Leave a Google Review
+  </a>
+</div>
+
+         <div class="review-container" id="reviews"></div>      
+        <!-- Bottom Section: Call-to-Action to Write a Review -->
+<div class="text-center" style="margin: 40px 0;">
+  <h4>Have a moment to share your experience?</h4>
+  <p style="font-size: 16px; max-width: 600px; margin: 10px auto;">
+    Your feedback means the world to us and helps others discover the quality and care we provide at Maria Beauty Care.
+  </p>
+  <a href="https://g.page/r/CW_gupc7EZ1PEAE/review" target="_blank" class="btn-line"
+     style="display: inline-block; margin-top: 15px; padding: 12px 25px; border: 2px solid #e91e63; color: #e91e63; border-radius: 30px; text-decoration: none; font-weight: bold;">
+    💬 Write a Review Now
+  </a>
+</div>
+
         <div class="row">
             <div class="masonry">
 
@@ -89,20 +114,74 @@
                     $review =  $testimonials[$i]["review"];
                 
                 ?>
-                    <?php get_template_part('template-parts/each-testimonial', null, ['client_name'=> $client_name,'image_url' => $image_url,'review' => $review]); ?>
+                    <?php //get_template_part('template-parts/each-testimonial', null, ['client_name'=> $client_name,'image_url' => $image_url,'review' => $review]); ?>
                     <!-- close gallery item -->
                 <?php endfor ?>
 
 
+
+
+
             </div>
         </div>
+
+       
     </div>
     
 </div>
      <!-- section begin -->
            <?php get_template_part('template-parts/offer-and-appointment'); ?>
             <!-- section close -->
+<script>
+  function initMap() {
+    const service = new google.maps.places.PlacesService(document.createElement('div'));
+    service.getDetails({
+      placeId: 'ChIJ5XfpobrxBDsRb-C6lzsRnU8', // Replace with your Place ID
+      fields: ['reviews']
+    }, (place, status) => {
+      if (status === google.maps.places.PlacesServiceStatus.OK && place.reviews) {
+        const reviewsDiv = document.getElementById('reviews');
+        place.reviews.slice(0, 5).forEach(review => {
+          const reviewEl = document.createElement('div');
+          reviewEl.className = 'review';
+        //   reviewEl.innerHTML = `
+        //     <div class="review-author">${review.author_name}</div>
+        //     <div class="review-rating">${'★'.repeat(review.rating)}</div>
+        //     <p>${review.text}</p>
+        //   `;
 
+          reviewEl.innerHTML  = `
+            <div class="col-md-4 marginbottom30 item">
+                <div class="de_testi">
+                    <blockquote>
+                        <p>${review.text}</p>
+                    </blockquote>
+                    <div class="de_testi_by">
+                        <span class="de_testi_pic">
+                            <img src="${review.profile_photo_url}" alt="" class="img-circle"></span>
+                        <div class="de_testi_company">
+                            <strong>${review.author_name}</strong>
+                            <div class="review-rating">${'★'.repeat(review.rating)} ${review.relative_time_description}</div>
+                        </div>
+                        
+                    </div>
+                </div>
+            </div>
+          `;
+          reviewsDiv.appendChild(reviewEl);
+        });
+      }
+    });
+  }
+</script>
+
+
+
+
+<!-- Replace YOUR_API_KEY with your actual API key -->
+<script async defer
+  src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDCjEf8iNGIMESzp38i3U4oqTh-UMuxeic&libraries=places&callback=initMap">
+</script>
 <?php
 // Include the footer
 get_footer('home');

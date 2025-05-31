@@ -2,7 +2,7 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-md-9 mt10">
-                            <h3><i class="fa fa-phone mr10"></i>Contact us now and get special offers!</h3>
+                            <h3><i class="fa fa-phone mr10"></i>+91 81480 64967 - Contact us now and get special offers!</h3>
                         </div>
 
                         <div class="col-md-3 text-right">

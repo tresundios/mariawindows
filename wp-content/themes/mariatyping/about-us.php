@@ -30,10 +30,25 @@ get_header('home'); ?>
                     <div class="row">
                         <div class="col-md-5 col-md-offset-7">
                             <div class="padding40">
-                                <h2>Professional Staff
-							<span class="small-border"></span>
-                                </h2>
-                               Maria Profile							
+       		
+
+
+                                 <h2>Our Professional Staff<span class="small-border"></span></h2>
+    <p>
+      At <strong>Maria Beauty Care</strong>, our team is the heart of everything we do. Each member of our staff is
+      professionally trained, highly skilled, and deeply passionate about beauty and personal care. With a commitment
+      to excellence, our beauty experts bring a wealth of experience in modern styling, skincare techniques, and personalized treatments.
+    </p>
+    <p>
+      From the moment you walk in, you’ll be greeted with warmth and treated with respect. Our staff listens carefully
+      to your needs, offers expert guidance, and ensures every service is delivered with care and precision. Whether
+      you're visiting for a haircut, facial, or bridal makeover, you’re in safe and capable hands.
+    </p>
+    <p>
+      We believe in continuous learning, and our team regularly updates their skills to stay ahead of beauty trends
+      and provide you with the latest services. At Maria Beauty Care, our staff doesn't just enhance your outer beauty —
+      they uplift your entire salon experience.
+    </p>
                             </div>
 
                         </div>
@@ -52,11 +67,22 @@ get_header('home'); ?>
                     <div class="row">
                         <div class="col-md-5">
                             <div class="padding40">
-                                <h2>Cozy Interior
-							<span class="small-border"></span>
-                                </h2>
-                                Welcome to Maria Beauty Care salons where our team of experienced and professionally trained to give you best services. We offer beauty treatments for ladies including hairdressing, make up, facial, massage and more.
-                        
+                              <h2>Our Cozy Interior	<span class="small-border"></span></h2>
+    <p>
+      At <strong>Maria Beauty Care</strong>, we believe that beauty begins with comfort. Step into our salon and you’ll
+      be welcomed by a <strong>calm, cozy, and neatly arranged interior</strong> designed to help you relax the moment you arrive.
+      Our space features <em>soft lighting, gentle music, and clean, soothing colors</em> that create a peaceful atmosphere
+      for every beauty treatment.
+    </p>
+    <p>
+      From the waiting area to the service stations, every corner of our salon is thoughtfully designed to make you feel
+      <strong>at home and pampered</strong>. Whether you're here for a quick facial or a full makeover, you'll enjoy your
+      service in a <strong>hygienic, private, and air-conditioned environment</strong> where your comfort is our priority.
+    </p>
+    <p>
+      We’ve created a space that not only enhances your outer beauty but also gives you a moment of inner peace.
+    </p>
+                            
                             </div>
 
                         </div>
@@ -66,38 +92,7 @@ get_header('home'); ?>
 			<!-- section close -->
 
 
-            <!-- section begin -->
-            <section id="section-stylist">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-md-6 col-md-offset-3 text-center">
-                            <h1>Our Stylist</h1>
-                            <div class="small-border wow zoomIn" data-wow-delay=".3s" data-wow-duration=".3s"></div>
-                            <div class="spacer-single"></div>
-                        </div>
 
-                        <div class="clearfix"></div>
-
-                        <div class="col-md-3 col-sm-3 col-xs-6 wow fadeInLeft" data-wow-delay=".8s">
-                            <div class="team-member">
-                                <img src="images/team/team_pic_1.jpg" class="img-circle pic-grey" alt="" />
-                                <h3>Maria</h3>
-                                <p>She is our Lead Hair Designer and the creative inspiration. She's happy to help you decide the best hair style.</p>
-                                <div class="social">
-                                    <a href="#"><i class="fa fa-facebook fa-lg"></i></a>
-                                    <a href="#"><i class="fa fa-twitter fa-lg"></i></a>
-                                    <a href="#"><i class="fa fa-google-plus fa-lg"></i></a>
-                                    <a href="#"><i class="fa fa-skype fa-lg"></i></a>
-                                </div>
-                            </div>
-                        </div>
-
-
-
-                    </div>
-                </div>
-            </section>
-            <!-- section close -->
 
 
             <!-- section begin -->

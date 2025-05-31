@@ -5141,3 +5141,23 @@ float:none;
     color: #0073aa;
     text-decoration: none;
 }
+
+ .review-container {
+      max-width: 600px;
+      margin: 20px auto;
+      font-family: Arial, sans-serif;
+    }
+    .review {
+      border: 1px solid #ddd;
+      padding: 15px;
+      margin-bottom: 15px;
+      border-radius: 8px;
+      background: #f9f9f9;
+    }
+    .review-author {
+      font-weight: bold;
+      margin-bottom: 5px;
+    }
+    .review-rating {
+      color: #fbc02d;
+    }

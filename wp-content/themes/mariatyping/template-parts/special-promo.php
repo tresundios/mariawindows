@@ -19,7 +19,7 @@
                                 <div class="box-icon">
                                     <i class="fa fa-tags wow zoomIn" data-wow-delay=".25s"></i>
                                     <div class="text">
-                                        <h4>Get Discount 50%</h4>
+                                        <h4>Get Discount 20%</h4>
                                         <p>Our commitment to quality and services ensure our clients happy. With years of experiences and continuing education, our dedicated staff is ready to serve your beauty needs. We're happy to help you decide the best look.</p>
                                     </div>
                                 </div>

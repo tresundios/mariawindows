@@ -11,8 +11,8 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12">
-                <h1>Testimonials</h1>
-                <h4>What They Says</h4>
+                 <h1>What Our Customers Are Saying</h1>
+                <h4>Loved by women across Nagercoil – see why they choose us.</h4>
             </div>
         </div>
     </div>
