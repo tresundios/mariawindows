@@ -42,7 +42,7 @@
                                 data-speed="1000"
                                 data-start="1100"
                                 data-easing="easeInOutExpo">
-                                <a href="#" class="btn-slider">Explore Bridal Looks
+                                <a href="#section-gallery" class="btn-slider">Explore Bridal Looks
                                 </a>
                             </div>
                         </li>
@@ -92,59 +92,56 @@
 
             
              <!-- section begin -->
-           <?php get_template_part('template-parts/time-and-address'); ?>
+            <?php get_template_part('template-parts/time-and-address'); ?>
+            <!-- section close -->
+            
+  
+  <!-- section begin -->
+              <!-- section begin -->
+           <?php get_template_part('template-parts/offer-and-appointment'); ?>
+            <!-- section close -->
             <!-- section close -->
 
+         
 
             <!-- section begin -->
-            <section id="section-top-reason" class="no-top no-bottom">
-                <div class="container-fluid">
-                    <div class="row-fluid display-table">
+            <section id="section-gallery" aria-label="section-gallery" class="no-top no-bottom">
 
-                        <div class="col-md-4 text-middle" data-bgcolor="#e2e2e2">
-                            <div class="padding40">
-                                <div class="box-icon">
-                                    <i class="fa fa-tags wow zoomIn" data-wow-delay=".25s"></i>
-                                    <div class="text">
-                                        <h4>Special Promo</h4>
-                                        <p>Our commitment to quality and services ensure our clients happy. With years of experiences and continuing education, our dedicated staff is ready to serve your beauty needs. We're happy to help you decide the best look.</p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
+                <div id="gallery" class="gallery zoom-gallery gallery-3-cols wow fadeInUp" data-wow-delay=".3s">
 
-                        <div class="col-md-4 text-middle text-light" data-bgimage="url<?php echo get_template_directory_uri(); ?>/assets/images/background/bg-div-1.jpg)">
-                            <div class="padding40 hoverdark30">
-                                <div class="box-icon">
-                                    <i class="fa fa-tags wow zoomIn" data-wow-delay=".25s"></i>
-                                    <div class="text">
-                                        <h4>Get Discount 50%</h4>
-                                        <p>Our commitment to quality and services ensure our clients happy. With years of experiences and continuing education, our dedicated staff is ready to serve your beauty needs. We're happy to help you decide the best look.</p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
+                <?php
+                // Loop to show 11 gallery items
+                for ($i = 1; $i <= 11; $i++) :
+                    // Pad numbers like 01, 02, ..., 11
+                    $img_number = str_pad($i, 2, '0', STR_PAD_LEFT);
+                    $image_url = get_template_directory_uri() . "/assets/bridal_maria/bridal_$img_number.jpg";
+                    $image_title = "Maria Bridal Makeup $i";
+                ?>
+                    <?php get_template_part('template-parts/each-bridal', null, ['image_url'=> $image_url,'image_title' => $image_title]); ?>
+                    <!-- close gallery item -->
+                <?php endfor; ?>
 
-                        <div class="col-md-4 text-middle text-center" data-bgcolor="#50094d">
-                            <div class="padding40">
-                                <a href="booking.html" class="btn btn-line-white btn-big wow fadeInUp" data-wow-delay=".3s">Make Appointment Now</a>
-                            </div>
-                        </div>
 
-                    </div>
+
                 </div>
             </section>
             <!-- section close -->
+            <!-- section close -->
 
+   <!-- section begin -->
+             <?php get_template_part('template-parts/special-promo'); ?>
+            <!-- section close -->
            <!-- section begin -->
            <?php get_template_part('template-parts/service-small'); ?>
             <!-- section close -->
 
+
+
+<!-- section begin -->
+              <!-- section begin -->
+           <?php get_template_part('template-parts/offer-and-appointment'); ?>
             <!-- section close -->
-
-
-
-
+            <!-- section close -->
             <!-- section begin -->
             <section id="explore-5" class="side-bg text-light">
                 <div class="col-md-6 image-container">
@@ -175,7 +172,11 @@
             </section>
             <!-- section close -->
 
-
+       <!-- section begin -->
+              <!-- section begin -->
+           <?php get_template_part('template-parts/offer-and-appointment'); ?>
+            <!-- section close -->
+            <!-- section close -->
             <!-- section begin -->
             <section id="section-hero-2" aria-label="section-hero-2" data-stellar-background-ratio=".2" data-bgcolor="#333" class="text-light">
                 <div class="container">
@@ -203,11 +204,7 @@
 
  
 
-            <!-- section begin -->
-              <!-- section begin -->
-           <?php get_template_part('template-parts/offer-and-appointment'); ?>
-            <!-- section close -->
-            <!-- section close -->
+     
 
         </div>
 <?php
