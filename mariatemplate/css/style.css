@@ -155,8 +155,8 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a6000000', e
 	padding-top:50px;
 	} 
 	header.smaller img{
-	height:50px !important;
-	margin:10px 20px 0 20px !important;
+	height:65px !important;
+	margin:4px 8px 0 8px !important;
 	}
 	header.smaller.header_center #logo{
 	display:none;
