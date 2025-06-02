@@ -5,6 +5,11 @@
  */
 
 get_header('home'); ?>
+ <style>
+    #subheader {
+    background-image: url('<?php echo get_template_directory_uri(); ?>/assets/images/background/subheader-4.jpg') !important;
+}
+</style>
         <!-- subheader -->
         <section id="subheader" class="subh-center" data-stellar-background-ratio=".2">
             <div class="container">

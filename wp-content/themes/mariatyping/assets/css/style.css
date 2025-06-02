@@ -3640,7 +3640,7 @@ width:100%;
 }
 
 .picframe{
-overflow:hidden;
+overflow:visible;
 }
 
 #btn-close-x{
@@ -5142,6 +5142,8 @@ float:none;
     text-decoration: none;
 }
 
+
+
  .review-container {
       max-width: 600px;
       margin: 20px auto;
@@ -5161,3 +5163,5 @@ float:none;
     .review-rating {
       color: #fbc02d;
     }
+
+		

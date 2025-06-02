@@ -9,7 +9,7 @@ background-size: 100% !important;
 
 /* all section  */
 #section-coming-soon{ background:none; position:absolute; min-height:100%; width:100%;z-index:1;}
-#section-gallery{background:#fff; width:101%;}
+#section-gallery{background:#fff; width:100%;}
 #section-intro{background:url(../images/background/bg-4.jpg); overflow:hidden;}
 
 /*

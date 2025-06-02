@@ -1,4 +1,8 @@
  <section id="section-services-tab" aria-label="section-services-tab">
+     <div class="col-12  text-center">
+                    <h1>Services</h1>
+                    <div class="small-border" data-wow-delay=".3s" data-wow-duration=".3s"></div>
+                </div>
                 <div class="container">
 
                     <div class="col-md-12 wow fadeInUp">

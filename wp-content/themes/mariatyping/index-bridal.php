@@ -78,7 +78,7 @@
                                 data-speed="1000"
                                 data-start="1100"
                                 data-easing="easeInOutExpo">
-                                <a href="#" class="btn-slider">Schedule a Trial
+                                <a href="#bridal-packages" class="btn-slider">Check affordable packages
                                 </a>
                             </div>
                         </li>
@@ -98,15 +98,19 @@
   
   <!-- section begin -->
               <!-- section begin -->
-           <?php get_template_part('template-parts/offer-and-appointment'); ?>
+            <?php get_template_part('template-parts/offer-and-appointment'); ?>
             <!-- section close -->
             <!-- section close -->
 
          
-
+          
             <!-- section begin -->
             <section id="section-gallery" aria-label="section-gallery" class="no-top no-bottom">
-
+                <div class="col-12  text-center" style="padding-top:40px;padding-bottom:20px;">
+                    <h1>Our Beauty Moments</h1>
+                    <div class="small-border" data-wow-delay=".3s" data-wow-duration=".3s"></div>
+                    <h4>Real clients, real beauty—experience the Maria Beauty Care touch. </h4>
+                </div>
                 <div id="gallery" class="gallery zoom-gallery gallery-3-cols wow fadeInUp" data-wow-delay=".3s">
 
                 <?php
@@ -125,14 +129,135 @@
 
                 </div>
             </section>
+            
             <!-- section close -->
             <!-- section close -->
 
-   <!-- section begin -->
-             <?php get_template_part('template-parts/special-promo'); ?>
+            <!-- section begin -->
+
+            <div class="container" style="padding-top:30px" id="bridal-packages">
+                <div class="col-12  text-center">
+                    <h1>Bridal Bliss Packages</h1>
+                    <div class="small-border" data-wow-delay=".3s" data-wow-duration=".3s"></div>
+                    <h4>Transform into the bride you’ve always envisioned, with beauty services tailored just for you.  </h4>
+                </div>
+                <div class="row table-set  wow fadeInUp" >
+                                <div class="col-md-4">
+                        <!-- package begin -->
+                        <div class="table package text-center">
+                            <div class="c1">
+                                <h2>Regular</h2>
+                                <ul class="list">
+                                    <li>Full Body Polishing (Basic)</li>
+                                    <li>Full Body Waxing (Basic)</li>
+                                    <li>Bridal Special Silver Facial</li>
+                                    <li>Face D-Tan Bleach</li>
+                                    <li>Pedicure (Basic)</li>
+                                    <li>Manicure (Basic)</li>
+                                    <li>Hair Trim</li>
+                                    <li>Hair Deep Conditioning</li>
+                                    <li>Threading (All)</li>
+                                    <li>-</li><li>-</li><li>-</li><li>-</li><li></li>
+                                </ul>
+                            </div>
+
+                         
+                          <div class="c2">
+                                <strong>Now Only</strong>
+                                <h3 class="price">8,999&#8377;</h3>
+                                (normally 10,999&#8377;)
+                            </div>
+
+
+                            <div class="c3">
+                                <a href="booking/" class="btn-line">Book Now</a>
+                            </div>
+
+                        </div>
+                        <!-- package close -->
+                    </div>
+                    <div class="col-md-4">
+                        <!-- package begin -->
+                        <div class="table package text-center">
+                            <div class="c1">
+                                <h2>Classic</h2>
+                                <ul class="list">
+                                    <li>Full Body Polishing (Premium)</li>
+                                    <li>Full Body Waxing Rica</li>
+                                    <li>Bridal Special D-Toxifying Gold Facial with Power Mask</li>
+                                    <li>Aroma Pedicure</li>
+                                    <li>Aroma Manicure</li>
+                                    <li>Hir Cut (Style Change)</li>
+                                    <li>Threading (All)</li>
+                                    <li>Face De-Tan</li>
+                                    <li>Hair Spa</li>
+                                    <li>-</li><li>-</li><li>-</li><li></li><li></li>
+                                </ul>
+                            </div>
+
+                            <div class="c2">
+                                <strong>Now Only</strong>
+                                <h3 class="price">12,999&#8377;</h3>
+                                (normally 14,999&#8377;)
+                            </div>
+
+                            <div class="c3">
+                                <a href="booking/" class="btn-line">Book Now</a>
+                            </div>
+
+                        </div>
+                        <!-- package close -->
+                    </div>
+
+                    <div class="col-md-4">
+                        <!-- package begin -->
+                        <div class="table package text-center">
+                            <div class="c1">
+                                <h2>Luxury Premium</h2>
+                                <ul class="list">
+                                    <li>Full Body Polishing (Luxury)</li>
+                                    <li>D-Tan Remover Full Body</li>
+                                    <li>Full Body Waxing</li>
+                                    <li>Power Define Luxury Diamond Facial</li>
+                                    <li>Bikini Wax</li>
+                                    <li>Rose Petal Pedicure (Luxury)</li>
+                                    <li>Rose Petal Manicure (Luxury)</li>
+                                    <li>Threading all including Katori Wax</li>
+                                    <li>Hair Color</li>
+                                    <li>Face D-Tan & Neck</li>
+                                    <li>Hair Spa with Power Dose (Luxury)</li>
+                                    <li>Styling Hair Cut</li>
+                                    <li>Skin Purifying Clean-up with Peeling System</li><li></li>
+                                </ul>
+                            </div>
+
+                          <div class="c2">
+                                <strong>Now Only</strong>
+                                <h3 class="price">19,999&#8377;</h3>
+                                (normally 22,999&#8377;)
+                            </div>
+
+
+                            <div class="c3">
+                                <a href="booking/" class="btn-line">Book Now</a>
+                            </div>
+
+                        </div>
+                        <!-- package close -->
+                    </div>
+
+        
+
+
+
+                </div>
+            </div>
+
+            
+            <!-- section begin -->
+            <?php get_template_part('template-parts/special-promo'); ?>
             <!-- section close -->
-           <!-- section begin -->
-           <?php get_template_part('template-parts/service-small'); ?>
+            <?php get_template_part('template-parts/service-small'); ?>
             <!-- section close -->
 
 

@@ -6,6 +6,11 @@
     get_header('home');
     get_template_part('template-parts/banner','testimonials');
 ?>
+ <style>
+    #subheader {
+    background-image: url('<?php echo get_template_directory_uri(); ?>/assets/images/background/subheader-3.jpg') !important;
+}
+</style>
 <div id="content">
     <div class="container">
    <div class="text-center" style="margin-bottom: 40px;">

@@ -76,12 +76,11 @@
                         </div>
                         <div class="col-md-6 text-right">
                             <div class="social-icons">
-                                <a href="#"><i class="fa fa-facebook fa-lg"></i></a>
-                                <a href="#"><i class="fa fa-twitter fa-lg"></i></a>
-                                <a href="#"><i class="fa fa-rss fa-lg"></i></a>
-                                <a href="#"><i class="fa fa-google-plus fa-lg"></i></a>
-                                <a href="#"><i class="fa fa-skype fa-lg"></i></a>
-                                <a href="#"><i class="fa fa-dribbble fa-lg"></i></a>
+                                <a href="https://www.facebook.com/shinewithmariabeautycare/" target="_blank"><i class="fa fa-facebook fa-lg"></i></a>
+    
+         
+                       
+                                <a href="https://www.instagram.com/mariabeauty.care/" target="_blank"><i class="fa fa-instagram fa-lg"></i></a>
                             </div>
                         </div>
                     </div>
@@ -97,7 +96,9 @@
     <?php
     wp_footer();
     ?>
-
+<a href="https://wa.me/918148064967" target="_blank" id="whatsapp-button">
+  <img src="https://img.icons8.com/color/96/000000/whatsapp.png" alt="Chat on WhatsApp">
+</a>
 
 
 </body>

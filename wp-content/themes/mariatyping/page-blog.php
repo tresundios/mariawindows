@@ -3,7 +3,13 @@
 Template Name: Blog Page
 */
 get_header('home'); ?>
+
 <!-- subheader -->
+  <style>
+    #subheader {
+    background-image: url('<?php echo get_template_directory_uri(); ?>/assets/images/background/subheader-5.jpg') !important;
+}
+</style>
 <section id="subheader" class="subh-center" data-stellar-background-ratio=".2">
     <div class="container">
         <div class="row">
